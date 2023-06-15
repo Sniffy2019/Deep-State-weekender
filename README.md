@@ -14,7 +14,7 @@
 
 * ### [User Experience](README.md) (UX)
 
- * [Project Goals] (README.md)
+ * [Project Goals](README.md)
  * [Developer and Business Goals]
  * [User Stories]
  
