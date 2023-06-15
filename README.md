@@ -12,47 +12,48 @@
 
 ## Contents.
 
-* ### User Experience (UX)
+* ### [User Experience] (UX)
 
- * Project Goals
- * Developer and Business Goals
- * User Stories
+ * [Project Goals]
+ * [Developer and Business Goals]
+ * [User Stories]
  
 *  ### Design
 
- * Colour Scheme
- * Typography
- * Icons and Images
- * Features
- * Accessibility
- * Wireframes
+ * [Colour Scheme]
+ * [Typography]
+ * [Icons and Images]
+ * [Features]
+ * [Accessibility]
+ * [Wireframes]
 
-* ### Technologies Used
+* ### [Technologies Used]
 
- * Languages Used
- * Frameworks, Libraries & Programs Used
+ * [Languages Used]
+ * [Frameworks, Libraries & Programs Used]
   
-* ### Deployment
+* ### [Deployment]
 
-* Local Deployment
+* [Local Deployment]
 
   
-* ### Testing
+* ### [Testing]
 
- * Automated Testing
- * W3 Nu HTML Validator
- * W3C CSS Validation Service
- * Wave
- * Lighthouse
- * Manual Testing
- * Bugs
+ * [Automated Testing]
+ * [W3 Nu HTML Validator]
+ * [W3C CSS Validation Service]
+ * [Wave]
+ * [Lighthouse]
+ * [Manual Testing]
+ * [Bugs]
    
-* ### Credits
+* ### [Credits]
+ 
 
- * Code Sections
- * Media
- * Text
- * Acknowledgements
+ * [Code Sections]
+ * [Media]
+ * [Text]
+ * [Acknowledgements]
 
 
 * Sample layout drafted from the code institute "BootstrappingYourNextBigIdea"
