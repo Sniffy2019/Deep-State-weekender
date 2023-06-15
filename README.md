@@ -96,6 +96,7 @@ The image depicts the purchasing page with a home return button, if a non-recogn
 The user if interested can use the ticketing purchase page to buy said tickets, they can then return home and visit other pages to follow other festivals and events.
 I would quite like to try before I buy so its an accumulation of event selling as well as ticket purchasing.
 
+## Design
 
 <img width="750" alt="Screenshot 2023-05-03 111846" src="https://user-images.githubusercontent.com/122370573/235890420-a02bf063-4394-455d-b663-202dbda1e945.png">
 
