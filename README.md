@@ -87,9 +87,10 @@ The aim is to develop flyers that interact with the client so they can select th
 Its a blend of a drop flyer with a "ticketmaster" addition added to it.
 
 
+### User Stories
 
+<img width="750" alt="purchasing tickets" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/df998a0b-fbfa-4b28-9cd6-063b4e40c98a">
 
-<img width="750" alt="Screenshot 2023-05-03 110530" src="https://user-images.githubusercontent.com/122370573/235889152-7c1b8891-0dc2-4d7f-ae14-2fa064c48b92.png">
 
 The image depicts the subscription page with a sign-up button that once pressed opens a form to sign up to Love-to-read.
 
