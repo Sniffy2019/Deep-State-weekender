@@ -78,7 +78,7 @@
 ### Developer Business and Goals.
 
 
-<img width="750" height="250" alt="Screenshot 2023-06-15 073313" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/73a4c3b0-925f-42e9-a9ed-b236d0dc5437">
+<img width="750" alt="Screenshot 2023-06-15 073313" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/73a4c3b0-925f-42e9-a9ed-b236d0dc5437">
 
 
 The "index.page" ,is a flyer showing what dates the festival is at the 02 arena in London.
@@ -89,7 +89,7 @@ Its a blend of a drop flyer with a "ticketmaster" addition added to it.
 
 ### User Stories
 
-<img width="750" alt="purchasing tickets" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/df998a0b-fbfa-4b28-9cd6-063b4e40c98a">
+<img width="750"  height="250" alt="purchasing tickets" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/df998a0b-fbfa-4b28-9cd6-063b4e40c98a">
 
 
 The image depicts the purchasing page with a home return button, if a non-recognised card number is placed as shown above.
