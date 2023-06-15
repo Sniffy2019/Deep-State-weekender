@@ -2,7 +2,7 @@
 Festival flyer
 
 
-![mockup](https://images-public.smartmockups.com/mockups/PqQP@elfg_01F1FcRp9Ag_pr_en.jpg?auto=compress&crop=center&fit=crop&ixlib=react-9.0.2&h=274&q=38&dpr=1****)
+![mockup](https://images-public.smartmockups.com/mockups/iRJcPplMX_CNU8jStXkuY_pr_en.jpg?auto=compress&crop=center&fit=crop&q=38&ixlib=react-9.0.2&w=328)
 
 
 
