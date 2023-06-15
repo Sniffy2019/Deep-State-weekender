@@ -137,8 +137,9 @@ then using port 8000 will show the web page.
 
 ## Design of web page, built from the  Code Institute learning course,  using the following:-
 
-Sources:
-<img width="750" alt="wire frame web site" src="https://user-images.githubusercontent.com/122370573/230308332-797822d6-22ae-4713-b10c-12161ae19676.png">
+Sources:<img width="344" alt="Screenshot 2023-06-15 122236" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/565d481d-45e8-4608-a55c-a4413c1f4fb6">
+
+
 * wireframe design for the front page using Balsamiq Wireframes.
 * Schematic depicting the front page using the front tab bar for the selected page and drop-down menu.
 * Main picture describing the site.
