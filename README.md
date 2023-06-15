@@ -20,9 +20,9 @@
  
 *  ### [Design](README.md)
 
- * [Colour Scheme](README.md)
- * [Typography](README.md)
- * [Icons and Images](README.md)
+ * [Flyer Scheme](README.md)
+ * [font styles used](README.md)
+ * [Colours and background images](README.md)
  * [Features](README.md)
  * [Accessibility](README.md)
  * [Wireframes](README.md)
@@ -98,28 +98,14 @@ I would quite like to try before I buy so its an accumulation of event selling a
 
 ## Design
 
-<img width="750" alt="Screenshot 2023-05-03 111846" src="https://user-images.githubusercontent.com/122370573/235890420-a02bf063-4394-455d-b663-202dbda1e945.png">
-
-The Read More page describes the benefits of subscribing, prices, and benefits of recommending 
-other subscribers.
-
-The read more page also has links to the main page, about, read more, and the survey.
-Should the reader choose the About page it’s another sign-up page for the would-be reader to sign up with their details.
-
-The about.html page has a sign-up page for more details regarding what they would like to sign up for and also has the social following section on the bottom of the page.
-
-<img width="750" alt="Screenshot 2023-05-03 111532" src="https://user-images.githubusercontent.com/122370573/235889832-e0a521e7-fe92-4882-bad3-fea253aa7736.png">
-
-
-There is a link to the survey page at the top of the page that allows the reader to choose various questions about them, and a chance to win a year’s worth of subscription free for a year.
-
-<img width="750" alt="Screenshot 2023-05-03 112318" src="https://user-images.githubusercontent.com/122370573/235891492-57728fd7-d4b3-4719-8b1d-c255cd5f3c00.png">
-<img width="750" alt="Screenshot 2023-05-03 112342" src="https://user-images.githubusercontent.com/122370573/235891745-4a159cbe-8202-4589-8d91-3c3767b6a8d6.png">
+The design is based on a nineties or retro style drop flyer.
+The two images are of freestock festival/gig events and the contrast is to depict the outdoor and indoor selection of a 3 day festival.
+The footer is taken from the code institute CV design and modified to allow the user to select either payment or floow other festival goers.
 
 ### font styles used
 
-Roboto, sans-serif, Lato;
-Usage from 'Bootstrapping your next idea'.
+Permanent Marker, sans-serif;
+Usage from Google font-awesome.
 
 
 
