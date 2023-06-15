@@ -56,16 +56,13 @@
  * [Acknowledgements]
 
 
-* Sample layout drafted from the code institute "BootstrappingYourNextBigIdea"
-* Interactive static web page to select to buy or subscribe to books.
-* 1 main page and 4 linked pages to explain how the website works. 
-* (index.html) (main Page). Shows the offers and what you'll be getting if interested in subscribing or buying books.
-* Read-more.html explains the benefits of the site. Linked from the index.html page, describes the benefits of subscribing to Love-to Read.
-* about.html allows you to add your details in an email/name contact form linked from the about section on all pages.
-* see-here-for-details.html explains offers and benefits of different subscriptions, linked to via index.html or main web page.
-* form.html allows you to complete a survey, depicting how often you read and your favourite Genre, etc. linked via the survey section on every page.
 
-### The user interface and experience.
+
+[User Experience](README.md) (UX)
+
+ * [Project Goals](README.md)
+
+   The project is a drop flyer that allows the festival goer to select tickets for the displayed event. Also there are external links that show other festivals, and the external limks disply videos of festivals and other media outlets.
 
 * The website aims at book lovers that wish to choose their favourite books, and either buy a stand-alone edition or subscribe to various genres and build up a collection.
 
