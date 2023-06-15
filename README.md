@@ -1,8 +1,8 @@
 # Deep-State-weekender
 Festival flyer
-# Love-to-Read
 
-![mockup](https://user-images.githubusercontent.com/122370573/235913802-154a9593-4ce0-45f0-bb39-3b515e310895.jpg)
+
+![mockup](https://images-public.smartmockups.com/mockups/PqQP@elfg_01F1FcRp9Ag_pr_en.jpg?auto=compress&crop=center&fit=crop&ixlib=react-9.0.2&h=274&q=38&dpr=1****)
 
 
 
