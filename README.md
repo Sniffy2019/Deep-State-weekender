@@ -58,9 +58,9 @@
 
 
 
-User Experience (UX)
+ ### User Experience (UX)
 
- * Project Goals
+ * ### Project Goals
 
    The project is a drop flyer that allows the festival goer to select tickets for the displayed event. Also there are external links that show other festivals, and the external limks disply videos of festivals and other media outlets.
 
