@@ -14,7 +14,7 @@
 
 * ### [User Experience]() (UX)
 
- * [Project Goals]()
+ * [Project Goals](project goals)
  * [Developer and Business Goals]
  * [User Stories]
  
