@@ -10,15 +10,15 @@ Festival flyer
 
 
 
-### Contents.
+## Contents.
 
-* User Experience (UX)
+* ### User Experience (UX)
 
  * Project Goals
  * Developer and Business Goals
  * User Stories
  
-*  Design
+*  ### Design
 
  * Colour Scheme
  * Typography
@@ -27,17 +27,17 @@ Festival flyer
  * Accessibility
  * Wireframes
 
-* Technologies Used
+* ### Technologies Used
 
  * Languages Used
  * Frameworks, Libraries & Programs Used
   
-* Deployment
+* ### Deployment
 
 * Local Deployment
 
   
-* Testing
+* ### Testing
 
  * Automated Testing
  * W3 Nu HTML Validator
@@ -47,7 +47,7 @@ Festival flyer
  * Manual Testing
  * Bugs
    
-* Credits
+* ### Credits
 
  * Code Sections
  * Media
