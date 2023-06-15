@@ -12,6 +12,16 @@ Festival flyer
 
 ### Contents.
 
+*
+*
+*
+*
+*
+*
+*
+*
+
+
 * Sample layout drafted from the code institute "BootstrappingYourNextBigIdea"
 * Interactive static web page to select to buy or subscribe to books.
 * 1 main page and 4 linked pages to explain how the website works. 
@@ -36,7 +46,8 @@ Festival flyer
 
 ### How the pages help the reader navigate the website.
 
-<img width="750" alt="love to read front page" src="https://user-images.githubusercontent.com/122370573/234324852-f7fb7910-593e-42dd-8e88-d3aa993a0665.png">
+
+<img width="750" alt="Screenshot 2023-06-15 073313" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/73a4c3b0-925f-42e9-a9ed-b236d0dc5437">
 
 
 The "index.page" , entices people who love to read to subscribe or buy books.
