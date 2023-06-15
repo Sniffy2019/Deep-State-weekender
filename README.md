@@ -78,7 +78,7 @@
 ### Developer Business and Goals.
 
 
-<img width="750" height="350" alt="Screenshot 2023-06-15 073313" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/73a4c3b0-925f-42e9-a9ed-b236d0dc5437">
+<img width="750" height="250" alt="Screenshot 2023-06-15 073313" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/73a4c3b0-925f-42e9-a9ed-b236d0dc5437">
 
 
 The "index.page" ,is a flyer showing what dates the festival is at the 02 arena in London.
