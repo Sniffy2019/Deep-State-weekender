@@ -12,9 +12,9 @@
 
 ## Contents.
 
-* ### [User Experience](README.md) (UX)
+* ### [User Experience](docs/README.md) (UX)
 
- * [Project Goals](README.md)
+ * [Project Goals](docs/README.md)
  * [Developer and Business Goals]
  * [User Stories]
  
