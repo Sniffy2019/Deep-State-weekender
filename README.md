@@ -2,8 +2,8 @@
 Festival flyer
 
 
-C:\Users\NatGa\OneDrive\Desktop\flat-devices-mockup.png)
 
+![download](https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/cf3dc6aa-4ed5-48c4-87a8-b48a84575f33)
 
 
 
