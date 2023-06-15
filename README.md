@@ -148,7 +148,10 @@ Sources:
 * Readers’ reviews are depicted with four circles and text.
 * Offers and subscription links to read more and pictures at the bottom of the page.
 
-<img width="750" alt="Screenshot 2023-06-15 123232" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/536c0695-21c8-423f-963f-6a6e495ee872">
+  
+<img width="155" alt="Screenshot 2023-06-15 123511" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/97192af7-6e0d-4757-bd4d-a88afbee322d">
+
+
 
  
 * The rest of the pages were an enlargement of a section of the front page or the design above, with a background image plus a sign-up form or survey box added.
