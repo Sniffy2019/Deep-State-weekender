@@ -15,45 +15,45 @@
 * ### [User Experience](README.md) (UX)
 
  * [Project Goals](README.md)
- * [Developer and Business Goals]
- * [User Stories]
+ * [Developer and Business Goals](README.md)
+ * [User Stories](README.md)
  
-*  ### Design
+*  ### [Design](README.md)
 
- * [Colour Scheme]
- * [Typography]
- * [Icons and Images]
- * [Features]
- * [Accessibility]
- * [Wireframes]
+ * [Colour Scheme](README.md)
+ * [Typography](README.md)
+ * [Icons and Images](README.md)
+ * [Features](README.md)
+ * [Accessibility](README.md)
+ * [Wireframes](README.md)
 
-* ### [Technologies Used]
+* ### [Technologies Used](README.md)
 
- * [Languages Used]
- * [Frameworks, Libraries & Programs Used]
+ * [Languages Used](README.md)
+ * [Frameworks, Libraries & Programs Used](README.md)
   
-* ### [Deployment]
+* ### [Deployment](README.md)
 
-* [Local Deployment]
+* [Local Deployment](README.md)
 
   
-* ### [Testing]
+* ### [Testing](README.md)
 
- * [Automated Testing]
- * [W3 Nu HTML Validator]
- * [W3C CSS Validation Service]
- * [Wave]
- * [Lighthouse]
- * [Manual Testing]
- * [Bugs]
+ * [Automated Testing](README.md)
+ * [W3 Nu HTML Validator](README.md)
+ * [W3C CSS Validation Service](README.md)
+ * [Wave](README.md)
+ * [Lighthouse](README.md)
+ * [Manual Testing](README.md)
+ * [Bugs](README.md)
    
-* ### [Credits]
+* ### [Credits](README.md)
  
 
- * [Code Sections]
- * [Media]
- * [Text]
- * [Acknowledgements]
+ * [Code Sections](README.md)
+ * [Media](README.md)
+ * [Text](README.md)
+ * [Acknowledgements](README.md)
 
 
 
@@ -64,7 +64,7 @@
 
    The project is a drop flyer that allows the festival goer to select tickets for the displayed event. Also there are external links that show other festivals, and the external limks disply videos of festivals and other media outlets.
 
-* The website aims at book lovers that wish to choose their favourite books, and either buy a stand-alone edition or subscribe to various genres and build up a collection.
+
 
 * The ease of interaction between pages to see what the benefits are and how to set up a subscription.
 
@@ -75,7 +75,7 @@
 * The survey page (see-here-for-details.html) encourages feedback, lets the site understand the user’s personal preference, and encourages the information by entering a prize draw.
 
 
-### How the pages help the reader navigate the website.
+### Developer Business and Goals.
 
 
 <img width="750" alt="Screenshot 2023-06-15 073313" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/73a4c3b0-925f-42e9-a9ed-b236d0dc5437">
