@@ -128,9 +128,9 @@ The nav bar (especially index.html) and the social elements on the footer of (ab
 
 ### Links to additional pages are in the assets folder.
 
-[A link to GitHub] (https://github.com/Sniffy2019/Love-to-Read)
+[A link to GitHub] (https://github.com/Sniffy2019/Deep-State-weekender)
 
-Using Gitpod or code anywhere and using the terminal $ python3 -m http.server
+Using  code anywhere and using the terminal $ python3 -m http.server
 then using port 8000 will show the web page.
 
 
