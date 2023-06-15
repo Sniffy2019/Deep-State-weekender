@@ -137,7 +137,9 @@ then using port 8000 will show the web page.
 
 ## Design of web page, built from the  Code Institute learning course,  using the following:-
 
-Sources:<img width="344" alt="Screenshot 2023-06-15 122236" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/565d481d-45e8-4608-a55c-a4413c1f4fb6">
+Sources:
+
+<img width="750" alt="Screenshot 2023-06-15 122236" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/565d481d-45e8-4608-a55c-a4413c1f4fb6">
 
 
 * wireframe design for the front page using Balsamiq Wireframes.
@@ -146,7 +148,8 @@ Sources:<img width="344" alt="Screenshot 2023-06-15 122236" src="https://github.
 * Readers’ reviews are depicted with four circles and text.
 * Offers and subscription links to read more and pictures at the bottom of the page.
 
- <img width="550" alt="Screenshot 2023-05-05 112146" src="https://user-images.githubusercontent.com/122370573/236433656-5eb92902-3aa1-4e8d-858c-e8cbd35d2df8.png">
+<img width="750" alt="Screenshot 2023-06-15 123232" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/536c0695-21c8-423f-963f-6a6e495ee872">
+
  
 * The rest of the pages were an enlargement of a section of the front page or the design above, with a background image plus a sign-up form or survey box added.
 
