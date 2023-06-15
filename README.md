@@ -12,11 +12,11 @@
 
 ## Contents.
 
-* ### ![User Experience] (UX)
+* ### [User Experience](docs/User EXperience.md) (UX)
 
- * ![Project Goals]
- * ![Developer and Business Goals]
- * ![User Stories]
+ * [Project Goals]
+ * [Developer and Business Goals]
+ * [User Stories]
  
 *  ### Design
 
