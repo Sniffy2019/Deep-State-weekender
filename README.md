@@ -81,8 +81,13 @@
 <img width="750" alt="Screenshot 2023-06-15 073313" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/73a4c3b0-925f-42e9-a9ed-b236d0dc5437">
 
 
-The "index.page" , entices people who love to read to subscribe or buy books.
-The top of the page leads to the subscription deals and explains the benefits of long-term subscriptions. The top of the subscription page has drop-down links back to other pages included.
+The "index.page" ,is a flyer showing what dates the festival is at the 02 arena in London.
+The client can visit various social media outlets to see what has happened before and which is current now, the site allows the festival goer to see what is happening around the country and see other revellers having a good time.
+The aim is to develop flyers that interact with the client so they can select this event and also book m ark other potential events.
+Its a blend of a drop flyer with a "ticketmaster" addition added to it.
+
+
+
 
 <img width="750" alt="Screenshot 2023-05-03 110530" src="https://user-images.githubusercontent.com/122370573/235889152-7c1b8891-0dc2-4d7f-ae14-2fa064c48b92.png">
 
