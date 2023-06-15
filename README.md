@@ -83,7 +83,7 @@
 
 The "index.page" ,is a flyer showing what dates the festival is at the 02 arena in London.
 The client can visit various social media outlets to see what has happened before and which is current now, the site allows the festival goer to see what is happening around the country and see other revellers having a good time.
-The aim is to develop flyers that interact with the client so they can select this event and also book m ark other potential events.
+The aim is to develop flyers that interact with the client so they can select this event and also book mark other potential events.
 Its a blend of a drop flyer with a "ticketmaster" addition added to it.
 
 
