@@ -117,7 +117,7 @@ form {
   
   .success,
   .error {
-    display: none;
+    display: inline;
     font-size: 13px;
   }
   
