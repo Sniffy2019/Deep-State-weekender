@@ -7,12 +7,6 @@
 
 
 
-
-
-
-
-
-
 ## Contents.
 
 * ### [User Experience](#user) (UX)
@@ -108,6 +102,7 @@ The footer is taken from the code institute CV design and modified to allow the 
 ### font styles used
 
 Permanent Marker, sans-serif;
+Helvetica Neue for the Stripe page.
 Usage from Google font-awesome.
 
 
