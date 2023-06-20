@@ -14,8 +14,8 @@
 
 * ### [User Experience](#user) (UX)
 
- * [Project Goals](README.md)
- * [Developer and Business Goals](README.md)
+ * [Project Goals](#Pro)
+ * [Developer and Business Goals](#Dev)
  * [User Stories](README.md)
  
 *  ### [Design](README.md)
@@ -60,6 +60,7 @@
 <a name="user"></a>
  ### User Experience (UX)
 
+<a name="Pro"></a>
  * ### Project Goals
 
    The project is a drop flyer that allows the festival goer to select tickets for the displayed event. Also there are external links that show other festivals, and the external limks disply videos of festivals and other media outlets.
@@ -74,7 +75,7 @@
 
 * The survey page (see-here-for-details.html) encourages feedback, lets the site understand the user’s personal preference, and encourages the information by entering a prize draw.
 
-
+<a name="Dev"></a>
 ### Developer Business and Goals.
 
 
