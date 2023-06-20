@@ -99,7 +99,7 @@ I would quite like to try before I buy so its an accumulation of event selling a
 <a name="Des"></a>
 ## Design
 
-The design is based on a nineties or retro style drop flyer.
+The design is based on a nineties or retro-style drop flyer.
 The two images are of freestock festival/gig events and the contrast is to depict the outdoor and indoor selection of a 3 day festival.
 The footer is taken from the code institute CV design and modified to allow the user to select either payment or floow other festival goers.
 
@@ -120,7 +120,7 @@ Underneath the sections are on a straighforward background with white writing; t
 The whole theme of the site has a happy, calm, and partying tone of images  to make the user feel comfortable navigating through the pages.
 
 Purchase tickets is a button function that takes you to a ticket purchasing page with a countdown timer and home return page. The download and 'Social elements' are explained below.
-Purchase tickets 
+Purchase tickets is a mock up of the "stripe" online pay system. Simple colours used to add your details in and bright warning alerts if payment wasn't successful. 
 
 The social elements on the footer of the main page, have been made to look like straightforward icons of the different social media with you tube showing a video of a different festival.
 
