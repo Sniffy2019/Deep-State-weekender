@@ -4,7 +4,7 @@
 
 
 
-![Uploading smartmockups_lj47uk7m.png…]()
+
 
 
 
