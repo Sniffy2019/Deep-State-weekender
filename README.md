@@ -208,7 +208,7 @@ Using Html, CSS and Javascript.
 * Lighthouse used to check mobile speed and responses of the links.
 [Lighthouse Link](https://1drv.ms/i/s!AoNNqJj8WDJugsU-VCkGs68nHoFdlg?e=IkDK2J)
 
-
+[Stripe link](https://photos.onedrive.com/photo/6E3258FC98A84D83!41683?view=all)
 
 
 
