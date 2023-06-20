@@ -227,7 +227,10 @@ Code Institute-initial-work Alex Parry
 ### Acknowledgments
 
 *Code Institute
+
 *cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css
+
 *code.jquery.com/jquery-3.6.0.min.js
+
 *js.stripe.com/v3/
 
