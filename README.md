@@ -124,6 +124,18 @@ Purchase tickets is a mock up of the "stripe" online pay system. Simple colours 
 
 The social elements on the footer of the main page, have been made to look like straightforward icons of the different social media with you tube showing a video of a different festival.
 
+### Wireframes
+[wireframe link] (https://1drv.ms/i/s!AoNNqJj8WDJugsUsG5yVn19XliiXow?e=dfQgrz)
+
+
+* wireframe design for the front page using Balsamiq Wireframes.
+* Schematic depicting the front page using the front tab bar for the selected page and drop-down menu.
+* Main picture describing the site.
+* Purchase page literally a near as exact copy of the mock purchase page site.
+* Offers and subscription links to read more and pictures at the bottom of the page.
+
+  
+[wireframe link] (https://1drv.ms/i/s!AoNNqJj8WDJugsUugcXmOzQTLdNX9Q?e=d2an05)
 
 <a name="Deploy"></a>
 ### Deployment.
@@ -140,19 +152,7 @@ then using port 8000 will show the web page.
 ### Technologies used
 
 Sources:
-
-
-[wireframe link] (https://1drv.ms/i/s!AoNNqJj8WDJugsUsG5yVn19XliiXow?e=dfQgrz)
-
-
-* wireframe design for the front page using Balsamiq Wireframes.
-* Schematic depicting the front page using the front tab bar for the selected page and drop-down menu.
-* Main picture describing the site.
-* Purchase page literally a near as exact copy of the mock purchase page site.
-* Offers and subscription links to read more and pictures at the bottom of the page.
-
-  
-[wireframe link] (https://1drv.ms/i/s!AoNNqJj8WDJugsUugcXmOzQTLdNX9Q?e=d2an05)
+<a name="Wire"></a>
 
 <a name="Frame"></a>
 ### Frameworks, Libraries & Programs Used
