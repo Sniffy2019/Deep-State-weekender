@@ -146,27 +146,24 @@ Sources:
 * wireframe design for the front page using Balsamiq Wireframes.
 * Schematic depicting the front page using the front tab bar for the selected page and drop-down menu.
 * Main picture describing the site.
-* Readers’ reviews are depicted with four circles and text.
+* Purchase page literally a near as exact copy of the mock purchase page site.
 * Offers and subscription links to read more and pictures at the bottom of the page.
 
   
 [wireframe link] (https://1drv.ms/i/s!AoNNqJj8WDJugsUugcXmOzQTLdNX9Q?e=d2an05)
 
+<a name="Frame"></a>
+### Frameworks, Libraries & Programs Used
 
-
- 
-* The rest of the pages were an enlargement of a section of the front page or the design above, with a background image plus a sign-up form or survey box added.
-
-BootstrappingYourNextBigIdea-BS4/02-CoreCSSAndTheGridSystem/02-core_css/index.html
-
+* cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css
 * cdn.jsdeliver.net
-* code.jquery.com
+* code.jquery.com/jquery-3.6.0.min.js
+* js.stripe.com/v3/
 * fonts.googleapis.com
-* fonts.gstatic.com
 * kit.fontawesome.com
 * live.staticflickr.com
 * use.fontawesome.com
-* Smart.Mockups.com
+* Free.Mockups.com
 * https://unsplash.com/s/photos/books.
 
 ### Contributing to the flow of the page:-
