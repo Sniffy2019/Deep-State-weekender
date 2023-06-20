@@ -228,10 +228,12 @@ GitHub (https://github.com/Sniffy2019/Deep-State-weekender
 Using Gitpod or code anywhere the command line was easier to establish commits. Once using the port 8000 sometimes the changes would lag or not update at all
 
 
+
 <a name="Bugs"></a>
 ### Glitches/Bugs
 
 The pages and links have been tested, and the buttons react well.
+Stripe has been capped at not going beyond the initial page as I would not want to use real creadit card data.
 
 
 
