@@ -46,13 +46,12 @@
  * [Manual Testing](#Man-Test)
  * [Bugs](#Bugs)
    
-* ### [Credits](README.md)
+* ### [Credits](#Credits)
  
 
- * [Code Sections](README.md)
- * [Media](README.md)
- * [Text](README.md)
- * [Acknowledgements](README.md)
+ * [Code Sections](#Sections)
+ * [Media] (#video)
+ * [Acknowledgements](#Acknow)
 
 
 
@@ -152,7 +151,7 @@ then using port 8000 will show the web page.
 <a name="Tech"></a>
 ### Technologies used
 
-Sources:
+## Sources:
 
 
 <a name="Frame"></a>
@@ -177,6 +176,11 @@ Sources:
 <a name="Test"></a>
 ### Testing
 
+<a name="Jest"></a>
+### Automated Testing
+
+* Jest was used to test index.js
+
 * Tests have been run on Code anywhere
 Using Html, CSS and Javascript.
 
@@ -189,7 +193,6 @@ Using Html, CSS and Javascript.
 * W3C was used to eliminate any glaring errors and conflicts on the web pages.
 * Main index.html, assets/html(s) and style.css checked via W3C
 
-* Jest was used to test index.js
 
 
 
