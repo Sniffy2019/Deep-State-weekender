@@ -16,23 +16,22 @@
 
  * [Project Goals](#Pro)
  * [Developer and Business Goals](#Dev)
- * [User Stories](README.md)
+ * [User Stories](#User)
  
-*  ### [Design](README.md)
+*  ### [Design](#Des)
 
- * [Flyer Scheme](README.md)
- * [font styles used](README.md)
- * [Colours and background images](README.md)
- * [Features](README.md)
- * [Accessibility](README.md)
- * [Wireframes](README.md)
+ * [font styles used](#Font)
+ * [Colours and background images](#colour)
+ * [Features](#Feat)
+ * [Accessibility](#Accs)
+ * [Wireframes](#Wire)
 
-* ### [Technologies Used](README.md)
+* ### [Technologies Used](#Tech)
 
  * [Languages Used](README.md)
  * [Frameworks, Libraries & Programs Used](README.md)
   
-* ### [Deployment](README.md)
+* ### [Deployment](#Deploy)
 
 * [Local Deployment](README.md)
 
@@ -87,7 +86,7 @@ The client can visit various social media outlets to see what has happened befor
 The aim is to develop flyers that interact with the client so they can select this event and also book mark other potential events.
 Its a blend of a drop flyer with a "ticketmaster" addition added to it.
 
-
+<a name="User"></a>
 ### User Stories
 
 <img width="750"  height="650" alt="purchasing tickets" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/df998a0b-fbfa-4b28-9cd6-063b4e40c98a">
@@ -97,19 +96,21 @@ The image depicts the purchasing page with a home return button, if a non-recogn
 The user if interested can use the ticketing purchase page to buy said tickets, they can then return home and visit other pages to follow other festivals and events.
 I would quite like to try before I buy so its an accumulation of event selling as well as ticket purchasing.
 
+<a name="Des"></a>
 ## Design
 
 The design is based on a nineties or retro style drop flyer.
 The two images are of freestock festival/gig events and the contrast is to depict the outdoor and indoor selection of a 3 day festival.
 The footer is taken from the code institute CV design and modified to allow the user to select either payment or floow other festival goers.
 
+<a name="Font"></a>
 ### font styles used
 
 Permanent Marker, sans-serif;
 Usage from Google font-awesome.
 
 
-
+<a name="Colour"></a>
 ### Colours and background images.
 
 The colours for the main page are a 'vibrant catch the user’s eye’ style, with the image of books made into the current year.
@@ -126,8 +127,8 @@ All the images in the assets folder were sourced via https://unsplash.com/s/phot
 The nav bar (especially index.html) and the social elements on the footer of (about.html) pages, have been made to look like a book or wooden rails you might see in an old book store or library.
 
 
-
-### Links to additional pages are in the assets folder.
+<a name="Deploy"></a>
+### Deployment.
 
 [A link to GitHub] (https://github.com/Sniffy2019/Deep-State-weekender)
 
