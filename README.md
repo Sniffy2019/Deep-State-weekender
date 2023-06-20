@@ -23,7 +23,6 @@
  * [font styles used](#Font)
  * [Colours and background images](#colour)
  * [Features](#Feat)
- * [Accessibility](#Accs)
  * [Wireframes](#Wire)
 
 * ### [Technologies Used](#Tech)
@@ -175,6 +174,9 @@ then using port 8000 will show the web page.
 <a name="Lang"></a>
 ### Languages used
 
+* Html
+* Css
+* Javascript
 
 <a name="Test"></a>
 ### Testing
