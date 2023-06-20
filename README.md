@@ -124,6 +124,7 @@ Purchase tickets is a mock up of the "stripe" online pay system. Simple colours 
 
 The social elements on the footer of the main page, have been made to look like straightforward icons of the different social media with you tube showing a video of a different festival.
 
+<a name="Wire"></a>
 ### Wireframes
 [wireframe link] (https://1drv.ms/i/s!AoNNqJj8WDJugsUsG5yVn19XliiXow?e=dfQgrz)
 
@@ -152,7 +153,7 @@ then using port 8000 will show the web page.
 ### Technologies used
 
 Sources:
-<a name="Wire"></a>
+
 
 <a name="Frame"></a>
 ### Frameworks, Libraries & Programs Used
