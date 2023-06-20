@@ -3,7 +3,8 @@
 
 
 
-![Uploading smartmockups_lj47uk7m.png…]()
+![smartmockups_lj48e3k3](https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/bb34f863-33fa-465a-8235-9bb30cfa91c5)
+
 
 
 
