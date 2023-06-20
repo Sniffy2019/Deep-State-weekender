@@ -41,7 +41,7 @@
  * [Automated Testing](#Jest)
  * [W3 Nu HTML Validator](#w3-NU-HTML)
  * [W3C CSS Validation Service](#W3C-CSS)
- * [Wave](#Wave)
+ * [Stripe](#Stripe)
  * [Lighthouse](#Lighthouse)
  * [Manual Testing](#Man-Test)
  * [Bugs](#Bugs)
@@ -191,7 +191,7 @@ Using Html, CSS and Javascript.
 
 * Glitch was used to format the code in Html and CSS.
 * Checked via glitch for presentation.
-* 
+  
 <a name="w3-NU-HTML"></a>
 * W3C was used to eliminate any glaring errors and conflicts on the web pages.
 * Main index.html, assets/html NU HTML checker
