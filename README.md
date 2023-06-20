@@ -194,7 +194,7 @@ Using Html, CSS and Javascript.
 * W3C was used to eliminate any glaring errors and conflicts on the web pages.
 * Main index.html, assets/html(s) and style.css checked via W3C
 [CSS link](https://1drv.ms/i/s!AoNNqJj8WDJugsU774B4DAyahA5jjw?e=6sc1AG)
-[CSS link1](
+[CSS link1](https://1drv.ms/i/s!AoNNqJj8WDJugsU8JLQAX6FC-YTKCw?e=B5b1PD)
 
 
 * Lighthouse was used to test mobile response time.
