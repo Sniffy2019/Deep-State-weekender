@@ -176,9 +176,10 @@ then using port 8000 will show the web page.
 <a name="Test"></a>
 ### Testing
 
-<a name="Jest"></a>
+
 ### Automated Testing
 
+<a name="Jest"></a>
 * Jest was used to test index.js
 [A link to Jest testing](https://1drv.ms/i/s!AoNNqJj8WDJugsU92Pdu4GgJz_0-4Q?e=gUOegb)
 
@@ -202,7 +203,7 @@ Using Html, CSS and Javascript.
 [CSS link](https://1drv.ms/i/s!AoNNqJj8WDJugsU774B4DAyahA5jjw?e=6sc1AG)
 [CSS link1](https://1drv.ms/i/s!AoNNqJj8WDJugsU8JLQAX6FC-YTKCw?e=B5b1PD)
 
-
+<a name="Lighthouse"></a>
 * Lighthouse was used to test mobile response time.
 * Lighthouse used to check mobile speed and responses of the links.
 [Lighthouse Link](https://1drv.ms/i/s!AoNNqJj8WDJugsU-VCkGs68nHoFdlg?e=IkDK2J)
@@ -211,15 +212,16 @@ Using Html, CSS and Javascript.
 
 
 
-main source code taken and modified from the Code Institute.
+main source code taken and modified from the Code Institute, and the Stripe online payment system.
 
+<a name="Man-Test"></a>
 ### Testing and ensuring pages work
 
 As we are using various platforms to run the code. I found using ../index.html the easiest way to link pages back home.
 Otherwise, it would not load and try and link to assets pages.
 
 
-
+<a name="Bugs"></a>
 ### Glitches/Bugs
 
 The pages and links have been tested, and the buttons react well.
