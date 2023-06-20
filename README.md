@@ -142,8 +142,7 @@ then using port 8000 will show the web page.
 Sources:
 
 
-
-[wireframe link]("https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/8ef24dc3-cb6f-4d7a-8137-dc6d54282380")
+[wireframe link](C:\Users\NatGa\OneDrive\Pictures\Deepstate\wireframe 1.png)
 
 
 * wireframe design for the front page using Balsamiq Wireframes.
