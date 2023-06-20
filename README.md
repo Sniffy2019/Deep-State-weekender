@@ -50,7 +50,7 @@
  
 
  * [Authors](#Auth)
- * [Media] (#video)
+ * [Media](#video)
  * [Acknowledgements](#Acknow)
 
 
@@ -226,11 +226,16 @@ Otherwise, it would not load and try and link to assets pages.
 
 The pages and links have been tested, and the buttons react well.
 
+<a name="Man-test"></a>
+### Manual Testing
 
-### Version control
-
-GitHub (https://github.com/Sniffy2019/Love-to-Read)
+GitHub (https://github.com/Sniffy2019/Deep-State-weekender
+)
 Using Gitpod or code anywhere the command line was easier to establish commits. Once using the port 8000 sometimes the changes would lag or not update at all.
+
+
+<a name="Video"></a>
+###Media
 
 <a name="Auth"></a>
 ### Authors
