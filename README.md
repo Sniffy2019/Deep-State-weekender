@@ -233,7 +233,8 @@ Using Gitpod or code anywhere the command line was easier to establish commits. 
 ### Glitches/Bugs
 
 The pages and links have been tested, and the buttons react well.
-Stripe has been capped at not going beyond the initial page as I would not want to use real creadit card data.
+
+Stripe has been capped at not going beyond the initial page as I would not want to use real credit card data.
 
 
 
