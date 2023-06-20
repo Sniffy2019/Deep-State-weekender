@@ -3,7 +3,8 @@
 
 
 
-<img width="750" alt="Screenshot 2023-06-15 090322" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/229f7abc-01c3-4525-8fe3-9494c9793da5">
+
+![Uploading smartmockups_lj47uk7m.png…]()
 
 
 
@@ -167,7 +168,7 @@ then using port 8000 will show the web page.
 * kit.fontawesome.com
 * live.staticflickr.com
 * use.fontawesome.com
-* Free.Mockups.com
+* Smart.Mockups.com
 * https://unsplash.com/s/photos/books.
   
 
