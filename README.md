@@ -219,7 +219,7 @@ Using Html, CSS and Javascript.
 <a name="Stripe"></a>
 ### Stripe
 [Stripe link](https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/ed68a4ac-1800-46a5-94ba-6da01013c37d)
-)
+
 
 
 
