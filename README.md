@@ -38,13 +38,13 @@
   
 * ### [Testing](#Test)
 
- * [Automated Testing](README.md)
- * [W3 Nu HTML Validator](README.md)
- * [W3C CSS Validation Service](README.md)
- * [Wave](README.md)
- * [Lighthouse](README.md)
- * [Manual Testing](README.md)
- * [Bugs](README.md)
+ * [Automated Testing](#Jest)
+ * [W3 Nu HTML Validator](#w3 NU HTML)
+ * [W3C CSS Validation Service](#W3C CSS)
+ * [Wave](#Wave)
+ * [Lighthouse](#Lighthouse)
+ * [Manual Testing](#Man Test)
+ * [Bugs](#Bugs)
    
 * ### [Credits](README.md)
  
@@ -168,7 +168,7 @@ Sources:
 * use.fontawesome.com
 * Free.Mockups.com
 * https://unsplash.com/s/photos/books.
-* 
+  
 
 <a name="Lang"></a>
 ### Languages used
@@ -189,9 +189,9 @@ Using Html, CSS and Javascript.
 * W3C was used to eliminate any glaring errors and conflicts on the web pages.
 * Main index.html, assets/html(s) and style.css checked via W3C
 
-* Jest wea used to test index.js
+* Jest was used to test index.js
 
-All other pages passed from W3C HTML checker.
+
 
 * Lighthouse was used to test mobile response time.
 * Lighthouse used to check mobile speed and responses of the links.
@@ -208,7 +208,7 @@ main source code taken and modified from the Code Institute.
 As we are using various platforms to run the code. I found using ../index.html the easiest way to link pages back home.
 Otherwise, it would not load and try and link to assets pages.
 
-For mobile use the drop-down links were used on each page as the menu didn't blend in with the chosen background, the only page with one link is the form.html page, as that directs you back home only for ease of use.
+
 
 ### Glitches/Bugs
 
@@ -227,5 +227,7 @@ Code Institute-initial-work Alex Parry
 ### Acknowledgments
 
 Code Institute
+cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css
+code.jquery.com/jquery-3.6.0.min.js
+js.stripe.com/v3/
 
-https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css
