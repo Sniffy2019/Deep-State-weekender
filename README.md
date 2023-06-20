@@ -215,10 +215,15 @@ Using Html, CSS and Javascript.
 main source code taken and modified from the Code Institute, and the Stripe online payment system.
 
 <a name="Man-Test"></a>
-### Testing and ensuring pages work
+### Manual Testing
 
 As we are using various platforms to run the code. I found using ../index.html the easiest way to link pages back home.
 Otherwise, it would not load and try and link to assets pages.
+
+
+GitHub (https://github.com/Sniffy2019/Deep-State-weekender
+)
+Using Gitpod or code anywhere the command line was easier to establish commits. Once using the port 8000 sometimes the changes would lag or not update at all
 
 
 <a name="Bugs"></a>
@@ -226,16 +231,11 @@ Otherwise, it would not load and try and link to assets pages.
 
 The pages and links have been tested, and the buttons react well.
 
-<a name="Man-test"></a>
-### Manual Testing
-
-GitHub (https://github.com/Sniffy2019/Deep-State-weekender
-)
-Using Gitpod or code anywhere the command line was easier to establish commits. Once using the port 8000 sometimes the changes would lag or not update at all.
 
 
-<a name="Video"></a>
-###Media
+
+<a name="video"></a>
+### Media
 
 <a name="Auth"></a>
 ### Authors
