@@ -128,14 +128,16 @@ The social elements on the footer of the main page, have been made to look like 
 <a name="Deploy"></a>
 ### Deployment.
 
+<a name="Local"></a>
+### Local Deployment
 [A link to GitHub] (https://github.com/Sniffy2019/Deep-State-weekender)
 
 Using  code anywhere and using the terminal $ python3 -m http.server
 then using port 8000 will show the web page.
 
 
-
-## Design of web page, built from the  Code Institute learning course,  using the following:-
+<a name="Tech"></a>
+### Technologies used
 
 Sources:
 
@@ -165,15 +167,20 @@ Sources:
 * use.fontawesome.com
 * Free.Mockups.com
 * https://unsplash.com/s/photos/books.
+* 
 
-### Contributing to the flow of the page:-
+<a name="Lang"></a>
+### Languages used
 
-https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css
 
-* Tests have been run for static-only purposes on Replit, Gitpod and Code anywhere
-Using Html and CSS only.
+<a name="Test"></a>
+### Testing
 
-* https://8000-sniffy2019-love-to-read-ak3w9wxnfx.us2.codeanyapp.com/index.html
+* Tests have been run on Code anywhere
+Using Html, CSS and Javascript.
+
+* https://8000-sniffy2019-deep-state-we-l1m5qbigb6.us2.codeanyapp.com/
+* https://github.com/Sniffy2019/Deep-State-weekender
 
 * Glitch was used to format the code in Html and CSS.
 * Checked via glitch for presentation.
@@ -181,11 +188,7 @@ Using Html and CSS only.
 * W3C was used to eliminate any glaring errors and conflicts on the web pages.
 * Main index.html, assets/html(s) and style.css checked via W3C
 
-*<img width="500" alt="NU HTML Checker" src="https://github.com/Sniffy2019/Love-to-Read/assets/122370573/8de8f42d-aa40-4ffa-a56b-696bd990ac1a">
-
-<img width="500" alt="css checker" src="https://github.com/Sniffy2019/Love-to-Read/assets/122370573/b119b706-ac4e-40dc-a78f-76c59031b80a">
-
-[html assets pages nu html checked.docx](https://github.com/Sniffy2019/Love-to-Read/files/11449086/html.assets.pages.nu.html.checked.docx)
+* Jest wea used to test index.js
 
 All other pages passed from W3C HTML checker.
 
@@ -195,7 +198,7 @@ All other pages passed from W3C HTML checker.
 
 
 
-<img width="529" alt="lighthouse report" src="https://user-images.githubusercontent.com/122370573/230315689-bceef6c9-f840-4b7a-85fe-3bacc5d878e5.png">
+
 
 main source code taken and modified from the Code Institute.
 
