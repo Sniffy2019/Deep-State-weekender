@@ -49,7 +49,7 @@
 * ### [Credits](#Credits)
  
 
- * [Code Sections](#Sections)
+ * [Authors](#Auth)
  * [Media] (#video)
  * [Acknowledgements](#Acknow)
 
@@ -230,10 +230,12 @@ The pages and links have been tested, and the buttons react well.
 GitHub (https://github.com/Sniffy2019/Love-to-Read)
 Using Gitpod or code anywhere the command line was easier to establish commits. Once using the port 8000 sometimes the changes would lag or not update at all.
 
+<a name="Auth"></a>
 ### Authors
 
 Code Institute-initial-work Alex Parry
 
+<a name="Acknow"></a>
 ### Acknowledgments
 
 *Code Institute
