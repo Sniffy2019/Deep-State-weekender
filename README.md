@@ -28,15 +28,15 @@
 
 * ### [Technologies Used](#Tech)
 
- * [Languages Used](README.md)
- * [Frameworks, Libraries & Programs Used](README.md)
+ * [Languages Used](#Lang)
+ * [Frameworks, Libraries & Programs Used](#Frame)
   
 * ### [Deployment](#Deploy)
 
-* [Local Deployment](README.md)
+* [Local Deployment](#Local)
 
   
-* ### [Testing](README.md)
+* ### [Testing](#Test)
 
  * [Automated Testing](README.md)
  * [W3 Nu HTML Validator](README.md)
@@ -113,18 +113,16 @@ Usage from Google font-awesome.
 <a name="Colour"></a>
 ### Colours and background images.
 
-The colours for the main page are a 'vibrant catch the user’s eye’ style, with the image of books made into the current year.
-The reviews are left on white background for simplicity, also this makes the images stand out more.
-Underneath the background image of a young girl reading with the 3 columns and read more buttons.
+The colours for the main page are a 'vibrant catch the user’s eye’ style, with the image of two photos depicting revellers having a good time. 
+The writing is done using a marker pen to give a real festival feel to it.
+Underneath the sections are on a straighforward background with white writing; the 3 sections then allow you to purchase tickets, see other events and follow the social elements of the web sute.
 
-The whole theme of the site has a warm, calm, and relaxing tone of images and colours to make the user feel comfortable navigating through the pages.
+The whole theme of the site has a happy, calm, and partying tone of images  to make the user feel comfortable navigating through the pages.
 
-About.html has an old library background image with the 'Let’s sign you up form'. The Nav bar and 'follow us' is explained below.
-Read more and the survey shares the same background image of an open book set onto a backdrop of a sunset.
-The columns are set with an opacity % to let the text be seen but not camouflaged with the background image.
-All the images in the assets folder were sourced via https://unsplash.com/s/photos/books and converted into jpegs or png's via Flickr.
+Purchase tickets is a button function that takes you to a ticket purchasing page with a countdown timer and home return page. The download and 'Social elements' are explained below.
+Purchase tickets 
 
-The nav bar (especially index.html) and the social elements on the footer of (about.html) pages, have been made to look like a book or wooden rails you might see in an old book store or library.
+The social elements on the footer of the main page, have been made to look like straightforward icons of the different social media with you tube showing a video of a different festival.
 
 
 <a name="Deploy"></a>
