@@ -116,6 +116,9 @@ The colours for the main page are a 'vibrant catch the user’s eye’ style, wi
 The writing is done using a marker pen to give a real festival feel to it.
 Underneath the sections are on a straighforward background with white writing; the 3 sections then allow you to purchase tickets, see other events and follow the social elements of the web sute.
 
+<a name="Feat"></a>
+### Features
+
 The whole theme of the site has a happy, calm, and partying tone of images  to make the user feel comfortable navigating through the pages.
 
 Purchase tickets is a button function that takes you to a ticket purchasing page with a countdown timer and home return page. The download and 'Social elements' are explained below.
