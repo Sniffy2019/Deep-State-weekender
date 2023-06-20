@@ -209,6 +209,7 @@ Using Html, CSS and Javascript.
 [Lighthouse Link](https://1drv.ms/i/s!AoNNqJj8WDJugsU-VCkGs68nHoFdlg?e=IkDK2J)
 
 <a name="Stripe"></a>
+### Stripe
 [Stripe link](https://photos.onedrive.com/photo/6E3258FC98A84D83!41683?view=all)
 
 
