@@ -39,11 +39,11 @@
 * ### [Testing](#Test)
 
  * [Automated Testing](#Jest)
- * [W3 Nu HTML Validator](#w3 NU HTML)
- * [W3C CSS Validation Service](#W3C CSS)
+ * [W3 Nu HTML Validator](#w3-NU-HTML)
+ * [W3C CSS Validation Service](#W3C-CSS)
  * [Wave](#Wave)
  * [Lighthouse](#Lighthouse)
- * [Manual Testing](#Man Test)
+ * [Manual Testing](#Man-Test)
  * [Bugs](#Bugs)
    
 * ### [Credits](README.md)
