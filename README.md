@@ -142,7 +142,7 @@ then using port 8000 will show the web page.
 Sources:
 
 
-[wireframe link](C:\Users\NatGa\OneDrive\Pictures\Deepstate\wireframe 1.png)
+[wireframe link] (\Users\NatGa\OneDrive\Pictures\Deepstate\wireframe 1.png)
 
 
 * wireframe design for the front page using Balsamiq Wireframes.
