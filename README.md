@@ -141,8 +141,9 @@ then using port 8000 will show the web page.
 
 Sources:
 
-<img width="750" alt="Screenshot 2023-06-15 122236" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/545893c8-5bb8-4edf-853c-2d7e38299990">
 
+
+[wireframe link]("https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/8ef24dc3-cb6f-4d7a-8137-dc6d54282380")
 
 
 * wireframe design for the front page using Balsamiq Wireframes.
