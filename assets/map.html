@@ -1,43 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" >
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
-        type="text/css" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-        type="text/css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css"
-        type="text/css" />
-        <link rel="stylesheet" href="map.css">
-        <script type = "module" src="map.js">
-        </script>
-        
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin >
+    <link
+      href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="map.css" >
+    <script type="module" src="map.js"></script>
 
-
-
-    
     <title>DeepState the Weekender</title>
-</head>
-<body>
-<h1 class ="center">London 02 Arena</h1>
-<div class="topnav" id="myTopnav">
-    <a href="../index.html" class="active">Home</a>
-    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+  </head>
+  <body>
+    <div class="topnav" id="myTopnav">
+      <a href="../index.html" class="active">Home</a>
+      <a href="paymentpage.html">Purchase Tickets</a>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
         <i class="fa fa-bars"></i>
       </a>
+    </div>
+    <h2 class="title">Look for the 02 here</h2>
+    <div id="map"></div>
+    <br />
+    <br />
+    <footer><p id="copywrite">&copy; 2023 GoogleMaps.com</p></footer>
 
-
-<div id="map"></div>
-
-
-
-
-<script async
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnEZIjrQ3hzTHjbW9BALBAcCvVbB-bOkk&callback=initMap">
-</script>
-</body>
-
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script
+      async
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnEZIjrQ3hzTHjbW9BALBAcCvVbB-bOkk&callback=initMap"
+    ></script>
+  </body>
 </html>
