@@ -240,6 +240,9 @@ The pages and links have been tested, and the buttons react well.
 
 Stripe has been capped at not going beyond the initial page as I would not want to use real credit card data.
 
+The map somtimes does not load on first selection of the button onto the find us here page.
+
+<img width="750" alt="maps for the o2" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/e9b569d3-1273-4a85-92aa-a6a3072c94fa">
 
 
 
