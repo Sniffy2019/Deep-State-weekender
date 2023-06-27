@@ -1,9 +1,9 @@
 # Deep-State-weekender
  ## Festival flyer
 
+![Deepstate mockup](https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/fa39945d-731d-463c-9d18-e5fa5778027c)
 
 
-![smartmockups_lj48e3k3](https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/bb34f863-33fa-465a-8235-9bb30cfa91c5)
 
 
 
