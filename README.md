@@ -61,13 +61,7 @@
 
 
 
-* The ease of interaction between pages to see what the benefits are and how to set up a subscription.
 
-* The reviews on the front page let the user know it’s a reputable site for selling/subscribing books.
-
-* There is a slight advertising pitch on the Read-more.html page to recommend friends and other book lovers to encourage word of mouth of the website.
-
-* The survey page (see-here-for-details.html) encourages feedback, lets the site understand the user’s personal preference, and encourages the information by entering a prize draw.
 
 <a name="Dev"></a>
 ### Developer Business and Goals.
@@ -76,7 +70,7 @@
 <img width="750" alt="Screenshot 2023-06-15 073313" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/73a4c3b0-925f-42e9-a9ed-b236d0dc5437">
 
 
-The "index.page" ,is a flyer showing what dates the festival is at the 02 arena in London.
+The "index.page", is a flyer showing what dates the festival is at the 02 arena in London.
 The client can visit various social media outlets to see what has happened before and which is current now, the site allows the festival goer to see what is happening around the country and see other revellers having a good time.
 The aim is to develop flyers that interact with the client so they can select this event and also book mark other potential events.
 Its a blend of a drop flyer with a "ticketmaster" addition added to it.
@@ -90,6 +84,7 @@ Its a blend of a drop flyer with a "ticketmaster" addition added to it.
 The image depicts the purchasing page with a home return button, if a non-recognised card number is placed as shown above.
 The user if interested can use the ticketing purchase page to buy said tickets, they can then return home and visit other pages to follow other festivals and events.
 I would quite like to try before I buy so its an accumulation of event selling as well as ticket purchasing.
+There is also a map to show the address of the event.
 
 <a name="Des"></a>
 ## Design
