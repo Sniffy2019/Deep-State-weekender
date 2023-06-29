@@ -170,6 +170,7 @@ then using port 8000 will show the web page.
 * Html
 * Css
 * Javascript
+* Jquery
 
 <a name="Test"></a>
 ### Testing
