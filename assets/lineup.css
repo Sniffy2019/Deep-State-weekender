@@ -1,0 +1,94 @@
+
+
+/* ----------------------------------------Special paddings/margins/text */
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.general-sub {
+  font-family: "Permanent Marker", sans-serif;
+  font-weight: 300;
+  color: #fafafa;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.row-table {
+  display: table;
+}
+
+.section-column {
+  display: table-cell;
+  padding: 0 30px 30px;
+  float: none;
+}
+
+
+
+/*--------------------------------------------Heading*/
+
+header {
+  margin: 0;
+}
+
+.heading {
+  margin-left: 50px;
+}
+
+.logo {
+  background: url("https://live.staticflickr.com/65535/52780588947_3e0dec57ea.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 660px;
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+.name {
+    font-family: 'Permanent Marker', cursive;
+  font-weight: 300;
+  font-size: 80px;
+  margin-top: 20px;
+  color: black;
+}
+
+.title {
+    font-family: 'Permanent Marker', cursive;
+  font-weight: 300;
+  font-size: 40px;
+  margin-top: 10px;
+  color: black;
+}
+.photo {
+  background: url("https://live.staticflickr.com/65535/52781180806_6b2a1a0d7e.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 660px;
+  margin-left: 0px;
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+#copywrite {
+    text-align: center;
+  }
+
+  
+  
+  #nav {
+    margin: 0;
+    text-align: center;
+  }
