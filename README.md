@@ -82,9 +82,10 @@ Its a blend of a drop flyer with a "ticketmaster" addition added to it.
 
 
 The image depicts the purchasing page with a home return button, if a non-recognised card number is placed as shown above.
-The user if interested can use the ticketing purchase page to buy said tickets, they can then return home and visit other pages to follow other festivals and events.
+The user if, interested can use the ticketing purchase page to buy said tickets, they can then return home and visit other pages to follow other festivals and events.
 I would quite like to try before I buy so its an accumulation of event selling as well as ticket purchasing.
 There is also a map to show the address of the event.
+There are interactive social pages showing different festivals and interaction on the media sites.
 
 <a name="Des"></a>
 ## Design
@@ -107,6 +108,7 @@ Usage from Google font-awesome.
 The colours for the main page are a 'vibrant catch the user’s eye’ style, with the image of two photos depicting revellers having a good time. 
 The writing is done using a marker pen to give a real festival feel to it.
 Underneath the sections are on a straighforward background with white writing; the 3 sections then allow you to purchase tickets, see other events and follow the social elements of the web sute.
+The line up page is the flyer just with the three dates on and a selection of Dj's/bands. These of course are made up and the site just depicts what the reveller would hypothetically see if they chose the full three day festival, or a day of their choosing.
 
 <a name="Feat"></a>
 ### Features
@@ -226,7 +228,21 @@ Otherwise, it would not load and try and link to assets pages.
 
 GitHub (https://github.com/Sniffy2019/Deep-State-weekender
 )
-Using Gitpod or code anywhere the command line was easier to establish commits. Once using the port 8000 sometimes the changes would lag or not update at all
+Using  Code anywhere the command line was easier to establish commits. Once using the port 8000 sometimes the changes would lag or not update at all.
+
+The front page or "index.html" page. Has two functioning buttons one for purchasing tickets and the other for finding the 02 arena.
+
+The payment page is mock up of a Stripe payment system. if you put an actual recognised credit card or debit card it will say payment successful. As I didn't want to actually go any deeper the page states that as a matter of default as I dont want anyone's personal details entered.
+If the card isn't recognised then the page states this.
+You can actually add details in but it will not save them as  a standard interactive payment page would.
+There is also a countdown timer which infers to the time left to purchase tickets.
+The page has a home page with the drop down menu but that is more for effect to highlight the home page.
+The features for the purpose of this site works well and respond as expected.
+
+The second button is "find us here" and shows a map of the 02 site where you can click on the site to get the exact address.
+I've down loaded an Api from google apps and its restricted to a certain amount of use so for the purpose of display and tutors marking it will display. You may need to hit F5 to refresh or go into developer tools and come out again for the page to refresh.
+It does work but it can be hit and miss depending on the users cache or settings on the Chrome develope site.
+
 
 
 
