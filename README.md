@@ -232,7 +232,7 @@ Using  Code anywhere the command line was easier to establish commits. Once usin
 
 The front page or "index.html" page. Has two functioning buttons one for purchasing tickets and the other for finding the 02 arena.
 
-The payment page is mock up of a Stripe payment system. if you put an actual recognised credit card or debit card it will say payment successful. As I didn't want to actually go any deeper the page states that as a matter of default as I dont want anyone's personal details entered.
+The payment page is mock up of a Stripe payment system. If you put an actual recognised credit card or debit card it will say payment successful. As I didn't want to actually go any deeper the page states that as a matter of default as I dont want anyone's personal details entered.
 If the card isn't recognised then the page states this.
 You can actually add details in but it will not save them as  a standard interactive payment page would.
 There is also a countdown timer which infers to the time left to purchase tickets.
@@ -242,6 +242,11 @@ The features for the purpose of this site works well and respond as expected.
 The second button is "find us here" and shows a map of the 02 site where you can click on the site to get the exact address.
 I've down loaded an Api from google apps and its restricted to a certain amount of use so for the purpose of display and tutors marking it will display. You may need to hit F5 to refresh or go into developer tools and come out again for the page to refresh.
 It does work but it can be hit and miss depending on the users cache or settings on the Chrome develope site.
+
+The download pages offer two sites. 1) A site to look out for other festivals and gigs for the season. 2) the playlist, which I thought about using Javascript to construct but, upon looking at professional website the construct is alone a few weeks worth of work plus so much copywrite protected sources it would have never been feasibile in such a short space of time unless you have these libraries to hand.
+So its the front page with a made up lineup.
+
+
 
 
 
