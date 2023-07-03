@@ -82,6 +82,7 @@ Its a blend of a drop flyer with a "ticketmaster" addition added to it.
 
 
 The image depicts the purchasing page with a home return button, if a non-recognised card number is placed as shown above.
+This is explained below in Glitches and bugs on why the page has been capped to prevent personal details being copied by anyone else other than the user.
 The user if, interested can use the ticketing purchase page to buy said tickets, they can then return home and visit other pages to follow other festivals and events.
 I would quite like to try before I buy so its an accumulation of event selling as well as ticket purchasing.
 There is also a map to show the address of the event.
@@ -108,7 +109,7 @@ Usage from Google font-awesome.
 
 The colours for the main page are a 'vibrant catch the user’s eye’ style, with the image of two photos depicting revellers having a good time. 
 The writing is done using a marker pen to give a real festival feel to it.
-Underneath the sections are on a straightforward background with white writing; the 3 sections then allow you to purchase tickets, see other events and follow the social elements of the web site.
+Underneath the sections are on a straightforward background with white writing; the 4 sections then allow you to purchase tickets, see other events, look for the site via google maps and follow the social elements of the web site.
 The nav bar at the bottom is dark slate gray just to allow white writing and the buttons to have some contrast.
 The line up page is the flyer just with the three dates on and a selection of Dj's/bands. These of course are made up and the site just depicts what the reveller would hypothetically see if they chose the full three day festival, or a day of their choosing.
 The backgound colour is white as it allows the payment page and map clear definition on their respective pages.
@@ -262,13 +263,20 @@ So its the front page with a made up lineup.
 
 The pages and links have been tested, and the buttons react well.
 
-Stripe has been capped at not going beyond the initial page as I would not want to use real credit card data.
+Stripe has been capped at not going beyond the initial page as I would not want to expose real credit card data, to show the payment page works.
+You can add your card details if you wish as it will state if the card is valid, if wrongly entered or keep the payment successful note at the bottom if an actual credit card has been entered correctly.
+
 
 The map somtimes does not load on first selection of the button onto the find us here page.
 I've included a screen shot of the map and have used a google API which is restricted but only for IP addresses.
 The issue is the developer tool in Chrome. If you go into inspect and the developer tools you can clear the issue and the map shows on the page.
 
+When on the map page google developers tools states this error.
+
+Refused to apply style from 'https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js' because its MIME type ('application/javascript') is not a supported stylesheet MIME type, and strict MIME checking is enabled.
+
 <img width="750" alt="maps for the o2" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/e9b569d3-1273-4a85-92aa-a6a3072c94fa">
+
 
 
 
