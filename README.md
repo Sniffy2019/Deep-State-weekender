@@ -165,11 +165,13 @@ Google maps API
 * code.jquery.com/jquery-3.6.0.min.js
 * js.stripe.com/v3/
 * fonts.googleapis.com
+* fonts.gstatic.com
 * kit.fontawesome.com
 * live.staticflickr.com
-* use.fontawesome.com
+* cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
 * Smart.Mockups.com
-* https://unsplash.com/s/photos/books.
+* https://unsplash.com/s/photos/festivals.
+* maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
   
 
 <a name="Lang"></a>
