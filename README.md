@@ -80,11 +80,9 @@ Its a blend of a drop flyer with a "ticketmaster" addition added to it.
 
 
 
-<img width="750" alt="purchasing tickets" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/07ae8d30-d3cc-40da-99c8-4ef447e4815e">
 
-The image depicts the purchasing page with a home return button, if a non-recognised card number is placed as shown above.
-This is explained below in Glitches and bugs on why the page has been capped to prevent personal details being copied by anyone else other than the user.
-The user if, interested can use the ticketing purchase page to buy said tickets, they can then return home and visit other pages to follow other festivals and events.
+
+The user if, interested can use the ticketing purchase page to buy said tickets , they can then return home and visit other pages to follow other festivals and events.
 I would quite like to try before I buy so its an accumulation of event selling as well as ticket purchasing.
 There is also a map to show the address of the event.
 There are interactive social pages showing different festivals and interaction on the media sites.
@@ -267,6 +265,10 @@ The pages and links have been tested, and the buttons react well.
 Stripe has been capped at not going beyond the initial page as I would not want to expose real credit card data, to show the payment page works.
 You can add your card details if you wish as it will state if the card is valid, if wrongly entered or keep the payment successful note at the bottom if an actual credit card has been entered correctly.
 
+<img width="750" height="400" alt="purchasing tickets" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/07ae8d30-d3cc-40da-99c8-4ef447e4815e">
+
+The image depicts the purchasing page with a home return button, if a non-recognised card number is placed as shown above.
+This is explained below in Glitches and bugs on why the page has been capped to prevent personal details being copied by anyone else other than the user.
 
 The map somtimes does not load on first selection of the button onto the find us here page.
 I've included a screen shot of the map and have used a google API which is restricted but only for IP addresses.
