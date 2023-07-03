@@ -78,8 +78,9 @@ Its a blend of a drop flyer with a "ticketmaster" addition added to it.
 <a name="User"></a>
 ### User Stories
 
-<img width="750"  height="650" alt="purchasing tickets" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/df998a0b-fbfa-4b28-9cd6-063b4e40c98a">
 
+
+<img width="750" alt="purchasing tickets" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/07ae8d30-d3cc-40da-99c8-4ef447e4815e">
 
 The image depicts the purchasing page with a home return button, if a non-recognised card number is placed as shown above.
 This is explained below in Glitches and bugs on why the page has been capped to prevent personal details being copied by anyone else other than the user.
