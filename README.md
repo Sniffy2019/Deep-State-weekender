@@ -92,7 +92,8 @@ There are interactive social pages showing different festivals and interaction o
 
 The design is based on a nineties or retro-style drop flyer.
 The two images are of freestock festival/gig events and the contrast is to depict the outdoor and indoor selection of a 3 day festival.
-The footer is taken from the code institute CV design and modified to allow the user to select either payment or floow other festival goers.
+The footer is taken from the code institute CV design and modified to allow the user to select either payment or follow other festival goers.
+There is also a map which pinpoints onto the O2 Arena. The user can take down the address, or zoom in or out to see where the event is taking place.
 
 <a name="Font"></a>
 ### font styles used
@@ -107,8 +108,10 @@ Usage from Google font-awesome.
 
 The colours for the main page are a 'vibrant catch the user’s eye’ style, with the image of two photos depicting revellers having a good time. 
 The writing is done using a marker pen to give a real festival feel to it.
-Underneath the sections are on a straighforward background with white writing; the 3 sections then allow you to purchase tickets, see other events and follow the social elements of the web sute.
+Underneath the sections are on a straightforward background with white writing; the 3 sections then allow you to purchase tickets, see other events and follow the social elements of the web site.
+The nav bar at the bottom is dark slate gray just to allow white writing and the buttons to have some contrast.
 The line up page is the flyer just with the three dates on and a selection of Dj's/bands. These of course are made up and the site just depicts what the reveller would hypothetically see if they chose the full three day festival, or a day of their choosing.
+The backgound colour is white as it allows the payment page and map clear definition on their respective pages.
 
 <a name="Feat"></a>
 ### Features
@@ -117,8 +120,9 @@ The whole theme of the site has a happy, calm, and partying tone of images  to m
 
 Purchase tickets is a button function that takes you to a ticket purchasing page with a countdown timer and home return page. The download and 'Social elements' are explained below.
 Purchase tickets is a mock up of the "stripe" online pay system. Simple colours used to add your details in and bright warning alerts if payment wasn't successful. 
-
+The map page allow to see where the event is happening and you get the excat location.
 The social elements on the footer of the main page, have been made to look like straightforward icons of the different social media with you tube showing a video of a different festival.
+All these are explained in the manual testing element of this README.md.
 
 <a name="Wire"></a>
 ### Wireframes
@@ -149,7 +153,9 @@ then using port 8000 will show the web page.
 ### Technologies used
 
 ## Sources:
+Code institute LMS
 
+Google maps API
 
 <a name="Frame"></a>
 ### Frameworks, Libraries & Programs Used
