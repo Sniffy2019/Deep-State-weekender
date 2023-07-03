@@ -184,7 +184,7 @@ Google maps API
 * Html
 * Css
 * Javascript
-* Jquery
+
 
 <a name="Test"></a>
 ### Testing
