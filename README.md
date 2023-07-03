@@ -75,6 +75,8 @@ The "index.page", is a flyer showing what dates the festival is at the 02 arena 
 The client can visit various social media outlets to see what has happened before and which is current now, the site allows the festival goer to see what is happening around the country and see other revellers having a good time.
 The aim is to develop flyers that interact with the client so they can select this event and also book mark other potential events.
 Its a blend of a drop flyer with a "ticketmaster" addition added to it.
+There are also various different pages to access via buttons, downloads and via the social media outlets.
+Its a site that could be developed further for more inteactive festival sites.
 
 <a name="User"></a>
 ### User Stories
@@ -121,8 +123,9 @@ The whole theme of the site has a happy, calm, and partying tone of images  to m
 
 Purchase tickets is a button function that takes you to a ticket purchasing page with a countdown timer and home return page. The download and 'Social elements' are explained below.
 Purchase tickets is a mock up of the "stripe" online pay system. Simple colours used to add your details in and bright warning alerts if payment wasn't successful. 
-The map page allow to see where the event is happening and you get the excat location.
+The map page (Find us Here) allows you to see where the event is happening and  the exact location.
 The social elements on the footer of the main page, have been made to look like straightforward icons of the different social media with you tube showing a video of a different festival.
+There are two download pages, 1) for other festivals shown in the chronilogical order for the year. 2) The line up for the Deepstate event.
 All these are explained in the manual testing element of this README.md.
 
 <a name="Wire"></a>
