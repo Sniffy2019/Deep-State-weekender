@@ -69,7 +69,7 @@ document.querySelector('form').addEventListener('submit', function (e) {
 });
 
   // set the date we are counting down to
-  var countDown = new Date("July 13, 2023 12:12:50").getTime();
+  var countDown = new Date("August 25, 2023 12:12:50").getTime();
      
   //update the count down in every 1 second
   var update = setInterval(function () {
