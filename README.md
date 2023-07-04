@@ -57,8 +57,8 @@
 <a name="Pro"></a>
  * ### Project Goals
 
-   The project is a drop flyer that allows the festival goer to select tickets for the displayed event. Also there are external links that show other festivals, and the external limks disply videos of festivals and other media outlets.
-
+   The project is a drop flyer that allows the festival goer to select tickets for the displayed event. Also there are external links that show other festivals, and the external limks disply videos of festivals and other media outlets. There is also a Playlist and a map section.
+All of these are explain is the user goals and features sections.
 
 
 
