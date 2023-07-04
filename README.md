@@ -84,11 +84,11 @@ Its a site that could be developed further for more inteactive festival sites.
 
 
 
-
+The target market is Festival revellers and people who generally love gigs.
 The user if, interested can use the ticketing purchase page to buy said tickets , they can then return home and visit other pages to follow other festivals and events.
 I would quite like to try before I buy so its an accumulation of event selling as well as ticket purchasing.
 There is also a map to show the address of the event.
-There are interactive social pages showing different festivals and interaction on the media sites.
+There are interactive social pages showing the different festivals and interaction on the media sites.
 
 <a name="Des"></a>
 ## Design
