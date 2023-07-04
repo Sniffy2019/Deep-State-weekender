@@ -149,7 +149,7 @@ All these are explained in the manual testing element of this README.md.
 ### Local Deployment
 [A link to GitHub] (https://github.com/Sniffy2019/Deep-State-weekender)
 
-Using  code anywhere and using the terminal $ python3 -m http.server
+Using  code anywhere or Gitpod; and using the terminal $ python3 -m http.server
 then using port 8000 will show the web page.
 
 
@@ -202,6 +202,7 @@ Using Html, CSS and Javascript.
 
 * https://sniffy2019-deep-state-we-emyvtq6bqy.us2.codeanyapp.com/status/
 * https://github.com/Sniffy2019/Deep-State-weekender
+* https://gitpod.io/new/#https://github.com/Sniffy2019/Deep-State-weekender
 
 * Glitch was used to format the code in Html and CSS.
 * Checked via glitch for presentation.
