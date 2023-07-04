@@ -269,7 +269,7 @@ So its the front page with a made up lineup.
 The pages and links have been tested, and the buttons react well.
 
 Stripe has been capped at not going beyond the initial page as I would not want to expose real credit card data, to show the payment page works.
-You can add your card details if you wish as it will state if the card is valid, if wrongly entered or keep the payment successful note at the bottom if an actual credit card has been entered correctly.There is a default state of saying the payment is succesful as that element has been used as a default in Javascript to show the page rather than be fully interactive.
+You can add your card details if you wish as it will state if the card is valid, if wrongly entered or keep the payment successful note at the bottom if an actual credit card has been entered correctly.There was a default state of saying the payment is succesful, that element has been removed as a default in Javascript to show the card number is invalid rather than be fully interactive.
 
 <img width="750" height= "650" alt="purchasing tickets" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/a6053c5d-302c-4454-b3a5-f99b9e610d92">
 
