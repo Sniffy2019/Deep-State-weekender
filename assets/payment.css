@@ -121,6 +121,7 @@ form {
   .success.visible,
   .error {
     display: inline;
+      font-size: 13px;
   }
   
   .error {
