@@ -137,7 +137,7 @@ The Social elements are six fold
 
 <a name="Wire"></a>
 ### Wireframes
-[wireframe link] (https://1drv.ms/i/s!AoNNqJj8WDJugsUsG5yVn19XliiXow?e=dfQgrz)
+[wireframe link] (https://live.staticflickr.com/65535/53023599702_e49c997e7b_w.jpg)
 
 
 * wireframe design for the front page using Balsamiq Wireframes.
@@ -147,7 +147,7 @@ The Social elements are six fold
 * Offers and subscription links to read more and pictures at the bottom of the page.
 
   
-[wireframe link] (https://1drv.ms/i/s!AoNNqJj8WDJugsUugcXmOzQTLdNX9Q?e=d2an05)
+[wireframe link](https://live.staticflickr.com/65535/53024173741_9b572b9cb7_n.jpg)
 
 <a name="Deploy"></a>
 ### Deployment.
@@ -217,22 +217,22 @@ Using Html, CSS and Javascript.
 <a name="w3-NU-HTML"></a>
 * W3C was used to eliminate any glaring errors and conflicts on the web pages.
 * Main index.html, assets/html NU HTML checker
-[HTML Link](https://1drv.ms/i/s!AoNNqJj8WDJugsU4dHbqcy6llEQS9g?e=EuiIZd)
-[HTML Link 1](https://1drv.ms/i/s!AoNNqJj8WDJugsU6Ka4CQm7Oj2Cy3w?e=AVAOBo)
+[HTML Link](https://live.staticflickr.com/65535/53023596177_6a3bcd1ef2_z.jpg)
+[HTML Link 1](https://live.staticflickr.com/65535/53024659358_602b0ef0a9_c.jpg)
 
 <a name="W3C-CSS"></a>
 * Style.css checked via W3C
-[CSS link](https://1drv.ms/i/s!AoNNqJj8WDJugsU774B4DAyahA5jjw?e=6sc1AG)
-[CSS link1](https://1drv.ms/i/s!AoNNqJj8WDJugsU8JLQAX6FC-YTKCw?e=B5b1PD)
+[CSS link](https://live.staticflickr.com/65535/53023595662_1c96d59edd_z.jpg)
+[CSS link1](https://live.staticflickr.com/65535/53024348179_6ba0e4b8f0_z.jpg))
 
 <a name="Lighthouse"></a>
 * Lighthouse was used to test mobile response time.
 * Lighthouse used to check mobile speed and responses of the links.
-[Lighthouse Link](https://1drv.ms/i/s!AoNNqJj8WDJugsU-VCkGs68nHoFdlg?e=IkDK2J)
+[Lighthouse Link](https://live.staticflickr.com/65535/53024563740_7f2c6b4aed_z.jpg)
 
 <a name="Stripe"></a>
 ### Stripe
-[Stripe link](https://photos.onedrive.com/photo/6E3258FC98A84D83!41688?view=all)
+[Stripe link](https://live.staticflickr.com/65535/53023599047_122467bedb.jpg)
 
 
 
