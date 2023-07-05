@@ -127,6 +127,9 @@ The map page (Find us Here) allows you to see where the event is happening and  
 The social elements on the footer of the main page, have been made to look like straightforward icons of the different social media with you tube showing a video of a different festival.
 There are two download pages, 1) for other festivals shown in the chronilogical order for the year. 2) The line up for the Deepstate event.
 All these are explained in the manual testing element of this README.md.
+The Social elements are five fold
+1) Facebook:- standard leave comments, photos and show people your having a good time.
+2) 
 
 <a name="Wire"></a>
 ### Wireframes
