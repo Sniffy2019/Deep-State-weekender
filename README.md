@@ -145,6 +145,7 @@ The Social elements are six fold
 * Main picture describing the site.
 * Purchase page literally a near as exact copy of the mock purchase page site.
 * Offers and subscription links to read more and pictures at the bottom of the page.
+* The line up page is an exact copy of the front page minus the nav bar at the bottom.
 
   
 [wireframe link](https://live.staticflickr.com/65535/53024173741_9b572b9cb7_n.jpg)
@@ -231,6 +232,9 @@ Using Html, CSS and Javascript.
 * Lighthouse was used to test mobile response time.
 * Lighthouse used to check mobile speed and responses of the links.
 [Lighthouse Link](https://live.staticflickr.com/65535/53024563740_7f2c6b4aed_z.jpg)
+
+Lighthouse report states that to speed it up. I would need to reduce using Bootstrap libraries and and not use the map API.
+But for the purposes of a Javascript project I'll leave it as is.
 
 <a name="Stripe"></a>
 ### Stripe
