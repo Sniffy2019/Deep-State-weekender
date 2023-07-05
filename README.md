@@ -219,11 +219,13 @@ Using Html, CSS and Javascript.
 * Main index.html, assets/html NU HTML checker
 [HTML Link](https://live.staticflickr.com/65535/53023596177_6a3bcd1ef2_z.jpg)
 [HTML Link 1](https://live.staticflickr.com/65535/53024659358_602b0ef0a9_c.jpg)
+[HTML link 2](https://live.staticflickr.com/65535/53024372984_d4bb32bfe6_z.jpg)
 
 <a name="W3C-CSS"></a>
 * Style.css checked via W3C
 [CSS link](https://live.staticflickr.com/65535/53023595662_1c96d59edd_z.jpg)
-[CSS link1](https://live.staticflickr.com/65535/53024348179_6ba0e4b8f0_z.jpg))
+[CSS link1](https://live.staticflickr.com/65535/53024348179_6ba0e4b8f0_z.jpg)
+[CSS link2](https://live.staticflickr.com/65535/53024590010_86f66a5a1c_z.jpg)
 
 <a name="Lighthouse"></a>
 * Lighthouse was used to test mobile response time.
