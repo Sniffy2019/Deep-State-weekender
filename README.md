@@ -127,9 +127,13 @@ The map page (Find us Here) allows you to see where the event is happening and  
 The social elements on the footer of the main page, have been made to look like straightforward icons of the different social media with you tube showing a video of a different festival.
 There are two download pages, 1) for other festivals shown in the chronilogical order for the year. 2) The line up for the Deepstate event.
 All these are explained in the manual testing element of this README.md.
-The Social elements are five fold
+The Social elements are six fold
 1) Facebook:- standard leave comments, photos and show people your having a good time.
-2) 
+2) Twitter:- Party people can leave comments on the best bits they enjoyed or the worst bits they disliked.
+3) linkedIn:- This was placed there as the organisers may wish to promote or venue suppliers may wish to sate their venues are being chosen. (the link doesn't work as there isn't a Deepstate festival brand of yet).
+4) Pinterest:- For the more artisan people who wish to see other festivals being promoted or shown from a previous date.
+5) Instagram :- Similar to Facebook, people follow a party goer and reply if they wish or like the person thread.
+6) You Tube:- A video showing the full set of Eric Prydz's at Creamfield 2022. (will need to skip the ads and put on full screen for full benefit of quality of sound).
 
 <a name="Wire"></a>
 ### Wireframes
