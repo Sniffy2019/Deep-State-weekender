@@ -308,6 +308,7 @@ The music selector photo attached below lets you see variuos artists randomly se
 It won't play the tracks as they are copywrited and the audio class has been omitted so its just a visual selector. I didn't want to spend the best part of $30 buying the tracks to play the music, but its a nice little gimmick to add and if this were to be fully developed into a fully functioning site I would ensure their was an audible playlist.
 
 
+<img width="750" alt="music selector" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/826af32a-492c-4ee3-aeb6-edda321079fd">
 
 <a name="video"></a>
 ### Media
