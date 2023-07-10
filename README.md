@@ -328,6 +328,7 @@ It won't play the tracks as they are copywrited and the audio class has been omi
 ### Authors
 
 Code Institute-initial-work Alex Parry
+
 Abxlfazl Khxrshidi Author of playlist sample, modified by Alex Parry, free source from CodeWithRandom
 
 <a name="Acknow"></a>
