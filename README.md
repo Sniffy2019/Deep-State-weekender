@@ -89,6 +89,7 @@ The user if, interested can use the ticketing purchase page to buy said tickets 
 I would quite like to try before I buy so its an accumulation of event selling as well as ticket purchasing.
 There is also a map to show the address of the event.
 There are interactive social pages showing the different festivals and interaction on the media sites.
+I have added a music sample selector as the User may wish to sample music from their favourite artists.
 
 <a name="Des"></a>
 ## Design
@@ -97,6 +98,7 @@ The design is based on a nineties or retro-style drop flyer.
 The two images are of freestock festival/gig events and the contrast is to depict the outdoor and indoor selection of a 3 day festival.
 The footer is taken from the code institute CV design and modified to allow the user to select either payment or follow other festival goers.
 There is also a map which pinpoints onto the O2 Arena. The user can take down the address, or zoom in or out to see where the event is taking place.
+The playlist mimics the flyer design and the playlist is a music selector depicting some of the artists and a song the user may recognise.
 
 <a name="Font"></a>
 ### font styles used
@@ -114,7 +116,7 @@ The writing is done using a marker pen to give a real festival feel to it.
 Underneath the sections are on a straightforward background with white writing; the 4 sections then allow you to purchase tickets, see other events, look for the site via google maps and follow the social elements of the web site.
 The nav bar at the bottom is dark slate gray just to allow white writing and the buttons to have some contrast.
 The line up page is the flyer just with the three dates on and a selection of Dj's/bands. These of course are made up and the site just depicts what the reveller would hypothetically see if they chose the full three day festival, or a day of their choosing.
-The backgound colour is white as it allows the payment page and map clear definition on their respective pages.
+The backgound colour is light Grey as it allows the payment page and map clear definition on their respective pages.
 
 <a name="Feat"></a>
 ### Features
@@ -166,7 +168,7 @@ then using port 8000 will show the web page.
 
 ## Sources:
 Code institute LMS
-
+Code With Random
 Google maps API
 
 <a name="Frame"></a>
@@ -269,8 +271,8 @@ The second button is "find us here" and shows a map of the 02 site where you can
 I've down loaded an Api from google apps and its restricted to a certain amount of use so for the purpose of display and tutors marking it will display. You may need to hit F5 to refresh or go into developer tools and come out again for the page to refresh.
 It does work but it can be hit and miss depending on the users cache or settings on the Chrome develope site.
 
-The download pages offer two sites. 1) A site to look out for other festivals and gigs for the season. 2) the playlist, which I thought about using Javascript to construct but, upon looking at professional website the construct is alone a few weeks worth of work plus so much copywrite protected sources it would have never been feasibile in such a short space of time unless you have these libraries to hand.
-So its the front page with a made up lineup.
+The download pages offer two sites. 1) A site to look out for other festivals and gigs for the season. 2) the playlist, which I thought about using Javascript to construct but, upon looking at professional website the construct is alone a few weeks worth of work plus so much copywrite protected sources it would have never been feasibile in such a short space of time unless you have these libraries to hand; I have put a base of a music selector minus the audio as I dont have the music downloaded and its all copywritten. It shows the artists and a song they would normally sing. You can either use the selector buttons to change the artists photo and song or just select directly on the artis to see what song is linked with them. 
+Its the front page with a made up lineup of famous artists and a selection of that playlist from all of the days of the festival.
 
 
 
@@ -313,6 +315,7 @@ Refused to apply style from 'https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3
 ### Authors
 
 Code Institute-initial-work Alex Parry
+Abxlfazl Khxrshidi Author of playlist sample, modified by Alex Parry, free source from CodeWithRandom
 
 <a name="Acknow"></a>
 ### Acknowledgments
@@ -326,4 +329,6 @@ Code Institute-initial-work Alex Parry
 *js.stripe.com/v3/
 
 *Robert Mclaughlin
+
+*Abxlfazl Khxrshidi
 
