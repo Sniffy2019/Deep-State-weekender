@@ -302,7 +302,7 @@ The issue is the developer tool in Chrome. If you go into inspect and the develo
 When on the map page google developers tools states this error.
 
 Refused to apply style from 'https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js' because its MIME type ('application/javascript') is not a supported stylesheet MIME type, and strict MIME checking is enabled.
-
+<br>
 
 
 <img width="750" alt="maps for the o2" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/e9b569d3-1273-4a85-92aa-a6a3072c94fa">
