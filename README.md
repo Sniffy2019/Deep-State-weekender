@@ -333,7 +333,7 @@ It won't play the tracks as they are copywrited and the audio class has been omi
 
 Spotify
 
-[Flickr link] (https://www.flickr.com/photos/197793547@N03/)
+[Flickr link](https://www.flickr.com/photos/197793547@N03/)
 
 <a name="Auth"></a>
 ### Authors
