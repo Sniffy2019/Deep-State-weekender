@@ -58,7 +58,7 @@
 <a name="Pro"></a>
  * ### Project Goals
 
-   The project is to create an interactive drop flyer that allows the festival goer to select tickets for the displayed event. Also there are external links that show other festivals, and the external links disply videos of festivals and other media outlets. There is also a Playlist and a map section.
+The project is to create an interactive drop flyer that allows the festival goer to select tickets for the displayed event. Also there are external links that show other festivals, and the external links disply videos of festivals and other media outlets. There is also a Playlist and a map section.
 All of these are explain is the user goals and features sections.
 
 
@@ -92,6 +92,7 @@ I would quite like to try before I buy so its an accumulation of event selling a
 There is also a map to show the address of the event.
 There are interactive social pages showing the different festivals and interaction on the media sites.
 I have added a music sample selector as the user may wish to sample music from their favourite artists.
+Having looked at professional sites the amount of copywritten material is enormous, but this is a preliminary attempt at making a retro interactive site.
 
 <a name="Des"></a>
 ## Design
