@@ -57,7 +57,7 @@
 <a name="Pro"></a>
  * ### Project Goals
 
-   The project is a drop flyer that allows the festival goer to select tickets for the displayed event. Also there are external links that show other festivals, and the external limks disply videos of festivals and other media outlets. There is also a Playlist and a map section.
+   The project is to create an interactive drop flyer that allows the festival goer to select tickets for the displayed event. Also there are external links that show other festivals, and the external links disply videos of festivals and other media outlets. There is also a Playlist and a map section.
 All of these are explain is the user goals and features sections.
 
 
@@ -76,6 +76,8 @@ The client can visit various social media outlets to see what has happened befor
 The aim is to develop flyers that interact with the client so they can select this event and also book mark other potential events.
 Its a blend of a drop flyer with a "ticketmaster" addition added to it.
 There are also various different pages to access via buttons, downloads and via the social media outlets.
+There is a map that shows exactly where the 02 is.
+There is also a sample playlist should the user wish to here samples of the line up artists sets.
 Its a site that could be developed further for more inteactive festival sites.
 
 <a name="User"></a>
@@ -87,7 +89,7 @@ The user if, interested can use the ticketing purchase page to buy said tickets 
 I would quite like to try before I buy so its an accumulation of event selling as well as ticket purchasing.
 There is also a map to show the address of the event.
 There are interactive social pages showing the different festivals and interaction on the media sites.
-I have added a music sample selector as the User may wish to sample music from their favourite artists.
+I have added a music sample selector as the user may wish to sample music from their favourite artists.
 
 <a name="Des"></a>
 ## Design
@@ -111,7 +113,7 @@ Usage from Google font-awesome.
 
 The colours for the main page are a 'vibrant catch the user’s eye’ style, with the image of two photos depicting revellers having a good time. 
 The writing is done using a marker pen to give a real festival feel to it. The colour of the font is black and full in texture to give an authentic retro look.
-Underneath the sections are on a straightforward background with white writing; the 4 sections then allow you to purchase tickets, see other events, look for the site via google maps and follow the social elements of the web site.
+Underneath the sections are on a straightforward background with white writing; the 4 sections then allow you to purchase tickets, see other events, look for the site via google maps and follow the social elements of the web site as well as sampling some of the lineups playlist.
 The nav bar at the bottom is dark slate gray just to allow white writing and the buttons to have some contrast.
 The line up page is the flyer just with the three dates on and a selection of Dj's/bands. These of course are made up and the site just depicts what the reveller would hypothetically see if they chose the full three day festival, or a day of their choosing.
 The backgound colour is light Grey as it allows the payment page and map clear definition on their respective pages.
