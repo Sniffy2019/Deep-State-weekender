@@ -334,6 +334,11 @@ It won't play the tracks as they are copywrited and the audio class has been omi
 <a name="development"></a>
 ### Development
 
+The site has gone from a payment page site linked with social elements as first draft to:-
+1) Second version added a map (google maps API)
+2) Third version a plain HTML playlist page.
+3) Fourth Version I've added a sample playlist thats been modified to not include copywritten music or payable downloads as its too expensive and for an educational point of view not viable.
+
 <a name="video"></a>
 ### Media
 [Creamfields](https://youtu.be/-eRZRFX7Cqs)
