@@ -127,7 +127,7 @@ Purchase tickets is a button function that takes you to a ticket purchasing page
 Purchase tickets is a mock up of the "stripe" online pay system. Simple colours used to add your details in and bright warning alerts if payment wasn't successful. 
 The map page (Find us Here) allows you to see where the event is happening and  the exact location.
 The social elements on the footer of the main page, have been made to look like straightforward icons of the different social media with you tube showing a video of a different festival.
-There are two download pages, 1) for other festivals shown in the chronilogical order for the year. 2) The line up for the Deepstate event.
+There are two download pages, 1) for other festivals shown in the chronological order for the year. 2) The line up for the Deepstate event.
 All these are explained in the manual testing element of this README.md.
 The Social elements are six fold
 1) Facebook:- standard leave comments, photos and show people your having a good time.
@@ -136,6 +136,10 @@ The Social elements are six fold
 4) Pinterest:- For the more artisan people who wish to see other festivals being promoted or shown from a previous date.
 5) Instagram :- Similar to Facebook, people follow a party goer and reply if they wish or like the person thread.
 6) You Tube:- A video showing the full set of Eric Prydz's at Creamfield 2022. (will need to skip the ads and put on full screen for full benefit of quality of sound).
+
+There is a line up page with the artists on for that day. Plus a random artist selector to show a few sound tracks. this is interactive and can be used as a CD selector or just click on the artist's picture to show a sample song.
+
+The Hamburger icon isn't functional, but if it was fully developed there would be a sideways nav bar showing the full lineup. I've left it in to highlight the home, Playlist and Purchase tickets links.
 
 <a name="Wire"></a>
 ### Wireframes
