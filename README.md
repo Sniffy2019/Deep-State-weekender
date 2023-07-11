@@ -69,6 +69,7 @@ All of these are explain is the user goals and features sections.
 
 <img width="750" alt="main screenshot" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/42380d3d-a950-4f76-9cf3-02810d942290">
 
+<br>
 
 
 The "index.page", is a flyer showing what dates the festival is at the 02 arena in London.
@@ -121,7 +122,7 @@ The backgound colour is light Grey as it allows the payment page and map clear d
 <a name="Feat"></a>
 ### Features
 
-The whole theme of the site has a happy, calm, and partying tone of images  to make the user feel comfortable navigating through the pages.
+The whole theme of the site has a happy, calm, and partying theme to the images  to make the user feel comfortable navigating through the pages.
 
 Purchase tickets is a button function that takes you to a ticket purchasing page with a countdown timer and home return page. The download and 'Social elements' are explained below.
 Purchase tickets is a mock up of the "stripe" online pay system. Simple colours used to add your details in and bright warning alerts if payment wasn't successful. 
