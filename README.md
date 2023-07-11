@@ -221,7 +221,7 @@ Using Html, CSS and Javascript.
 * https://github.com/Sniffy2019/Deep-State-weekender
 * https://gitpod.io/new/#https://github.com/Sniffy2019/Deep-State-weekender
 
-* Glitch was used to format the code in Html and CSS.
+* Glitch was used to format the code in Html, CSS and the JS files.
 * Checked via glitch for presentation.
   
 <a name="w3-NU-HTML"></a>
