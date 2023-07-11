@@ -208,7 +208,7 @@ Google maps API
 
 <a name="Jest"></a>
 * Jest was used to test index.js
-[A link to Jest testing](https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/5fa4c651-3b4a-467f-8ecf-db91638cfe2e")
+[A link to Jest testing](https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/5fa4c651-3b4a-467f-8ecf-db91638cfe2e)
 
 
 
