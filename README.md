@@ -41,6 +41,7 @@
  * [Lighthouse](#Lighthouse)
  * [Manual Testing](#Man-Test)
  * [Bugs](#Bugs)
+ * [Development of website](#Development)
    
 * ### [Credits](#Credits)
  
