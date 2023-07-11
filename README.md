@@ -304,7 +304,8 @@ The issue is the developer tool in Chrome. If you go into inspect and the develo
 When on the map page google developers tools states this error.
 
 Refused to apply style from 'https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js' because its MIME type ('application/javascript') is not a supported stylesheet MIME type, and strict MIME checking is enabled.
-<br> <br>
+
+<br>
 
 
 <img width="750" alt="maps for the o2" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/e9b569d3-1273-4a85-92aa-a6a3072c94fa">
@@ -313,7 +314,7 @@ Refused to apply style from 'https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3
 
 
 
-<br>
+<br><br>
 
 The music selector photo attached below lets you see variuos artists randomly selected for the festival.
 It won't play the tracks as they are copywrited and the audio class has been omitted so its just a visual selector. I didn't want to spend the best part of $30 buying the tracks to play the music, but its a nice little gimmick to add and if this were to be fully developed into a fully functioning site I would ensure their was an audible playlist.
