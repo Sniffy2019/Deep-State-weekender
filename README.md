@@ -82,8 +82,6 @@ Its a site that could be developed further for more inteactive festival sites.
 ### User Stories
 
 
-
-
 The target market is Festival revellers and people who generally love gigs.
 The user if, interested can use the ticketing purchase page to buy said tickets , they can then return home and visit other pages to follow other festivals and events.
 I would quite like to try before I buy so its an accumulation of event selling as well as ticket purchasing.
@@ -101,7 +99,7 @@ There is also a map which pinpoints onto the O2 Arena. The user can take down th
 The playlist mimics the flyer design and the playlist is a music selector depicting some of the artists and a song the user may recognise.
 
 <a name="Font"></a>
-### font styles used
+### Font styles used
 
 Permanent Marker, sans-serif;
 Helvetica Neue for the Stripe page.
@@ -112,7 +110,7 @@ Usage from Google font-awesome.
 ### Colours and background images.
 
 The colours for the main page are a 'vibrant catch the user’s eye’ style, with the image of two photos depicting revellers having a good time. 
-The writing is done using a marker pen to give a real festival feel to it.
+The writing is done using a marker pen to give a real festival feel to it. The colour of the font is black and full in texture to give an authentic retro look.
 Underneath the sections are on a straightforward background with white writing; the 4 sections then allow you to purchase tickets, see other events, look for the site via google maps and follow the social elements of the web site.
 The nav bar at the bottom is dark slate gray just to allow white writing and the buttons to have some contrast.
 The line up page is the flyer just with the three dates on and a selection of Dj's/bands. These of course are made up and the site just depicts what the reveller would hypothetically see if they chose the full three day festival, or a day of their choosing.
