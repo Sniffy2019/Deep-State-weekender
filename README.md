@@ -345,15 +345,11 @@ Abxlfazl Khxrshidi Author of playlist sample, modified by Alex Parry, free sourc
 <a name="Acknow"></a>
 ### Acknowledgments
 
-*Code Institute
+*Code Institute:- base layout of website and code to create front page.
 
-*cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css
+*js.stripe.com/v3/:- Snippet of code allowed to be used to show a payment page.
 
-*code.jquery.com/jquery-3.6.0.min.js
+*Robert Mclaughlin :- For reviewing ideas and expanding the web page.
 
-*js.stripe.com/v3/
-
-*Robert Mclaughlin
-
-*Abxlfazl Khxrshidi
+*Abxlfazl Khxrshidi:- For allowing his code to be used in the sample playlist.
 
