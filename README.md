@@ -115,10 +115,10 @@ Usage from Google font-awesome.
 ### Colours and background images.
 
 The colours for the main page are a 'vibrant catch the user’s eye’ style, with the image of two photos depicting revellers having a good time. 
-The writing is done using a marker pen to give a real festival feel to it. The colour of the font is black and full in texture to give an authentic retro look.
-Underneath the sections are on a straightforward background with white writing; the 4 sections then allow you to purchase tickets, see other events, look for the site via google maps and follow the social elements of the website as well as sample some of the lineups playlist.
+The writing is done using a marker pen to give a real festival feel to it. The colour of the font is black and full of texture to give an authentic retro look.
+Underneath the sections is a straightforward background with white writing; the 4 sections then allow you to purchase tickets, see other events, look for the site via google maps and follow the social elements of the website as well as sample some of the lineups playlist.
 The nav bar at the bottom is dark slate grey just to allow white writing and the buttons to have some contrast.
-The line-up page is the flyer just with the three dates on and a selection of DJs/bands. These of course are made up and the site just depicts what the reveller would hypothetically see if they chose the full three-day festival or a day of their choosing.
+The line-up page is the flyer just with the three dates and a selection of DJs/bands. These of course are made up and the site just depicts what the reveller would hypothetically see if they chose the full three-day festival or a day of their choosing.
 The background colour is light Grey as it allows the payment page and map clear definitions on their respective pages.
 
 <a name="Feat"></a>
@@ -126,10 +126,11 @@ The background colour is light Grey as it allows the payment page and map clear 
 
 The whole theme of the site has a happy, calm, and partying theme to the images to make the user feel comfortable navigating through the pages.
 
-Purchase tickets is a button function that takes you to a ticket purchasing page with a countdown timer and home return page. The download and 'Social elements' are explained below.
-Purchase tickets is a mock-up of the "stripe" online pay system. Simple colours are used to add your details in and bright warning alerts if payment wasn't successful. 
+Purchase tickets is a button function that takes you to a ticket purchasing page with a countdown timer and a home return page. The download and 'Social elements' are explained below.
+The countdown timer shows how long is left to buy the tickets before the event starts.
+Purchase tickets is a mock-up of the "stripe" online pay system. Simple colours are used to add your details and bright warning alerts if payment wasn't successful. 
 The map page (Find us Here) allows you to see where the event is happening and the exact location.
-The social elements on the footer of the main page, have been made to look like straightforward icons of the different social media with you tube showing a video of a different festival.
+The social elements on the footer of the main page, have been made to look like straightforward icons of the different social media with youtube showing a video of a different festival.
 There are two download pages, 1) for other festivals shown in chronological order for the year. 2) The lineup for the Deepstate event.
 All these are explained in the manual testing element of this README.md.
 The Social elements are six-fold
@@ -152,9 +153,9 @@ The Hamburger icon isn't functional, but if it was fully developed there would b
 * wireframe design for the front page using Balsamiq Wireframes.
 * Schematic depicting the front page using the front tab bar for the selected page and drop-down menu.
 * Main picture describing the site.
-* Purchase page literally a near as exact copy of the mock purchase page site.
+* Purchase page is a nearly as exact copy of the mock purchase page site.
 * Offers and subscription links to read more and pictures at the bottom of the page.
-* The line up page is an exact copy of the front page minus the nav bar at the bottom.
+* The lineup page is an exact copy of the front page minus the nav bar at the bottom.
 
   
 [wireframe link](https://live.staticflickr.com/65535/53024173741_9b572b9cb7_n.jpg)
@@ -166,7 +167,7 @@ The Hamburger icon isn't functional, but if it was fully developed there would b
 ### Local Deployment
 [A link to GitHub] (https://github.com/Sniffy2019/Deep-State-weekender)
 
-Using  code anywhere or Gitpod; and using the terminal $ python3 -m http.server
+Using code anywhere or Gitpod; and using the terminal $ python3 -m http.server
 then using port 8000 will show the web page.
 
 
@@ -176,7 +177,7 @@ then using port 8000 will show the web page.
 ## Sources:
 Code institute LMS
 Code With Random
-Google maps API
+Google Maps API
 
 <a name="Frame"></a>
 ### Frameworks, Libraries & Programs Used
@@ -223,7 +224,7 @@ Using Html, CSS, and Javascript.
 * https://github.com/Sniffy2019/Deep-State-weekender
 * https://gitpod.io/new/#https://github.com/Sniffy2019/Deep-State-weekender
 
-* Glitch was used to format the code in Html, CSS and JS files.
+* Glitch was used to format the code in Html, CSS, and JS files.
 * Checked via glitch for presentation.
   
 <a name="w3-NU-HTML"></a>
@@ -246,8 +247,8 @@ Using Html, CSS, and Javascript.
 * Lighthouse used to check mobile speed and responses of the links.
 [Lighthouse Link](https://live.staticflickr.com/65535/53024563740_7f2c6b4aed_z.jpg)
 
-Lighthouse report states that to speed it up. I would need to reduce using Bootstrap libraries and and not use the map API.
-But for the purposes of a Javascript project I'll leave it as is.
+Lighthouse report states that to speed it up. I would need to reduce using Bootstrap libraries and not use the map API.
+But for the purposes of a Javascript project, I'll leave it as is.
 
 <a name="Stripe"></a>
 ### Stripe
@@ -267,19 +268,19 @@ Otherwise, it would not load and try and link to assets pages.
 
 GitHub (https://github.com/Sniffy2019/Deep-State-weekender
 )
-Using  Code anywhere the command line was easier to establish commits. Once using the port 8000 sometimes the changes would lag or not update at all.
+Using  Code Anywhere or Gitpod, using the command line was easier to establish commits. Once using the port 8000 sometimes the changes would lag or not update at all.
 
 The front page or "index.html" page. Has two functioning buttons one for purchasing tickets and the other for finding the 02 arena.
 
-The payment page is a mock-up of a Stripe payment system. If you put an actual recognised credit card or debit card it will say payment is successful. As I didn't want to actually go any deeper the page states that as a matter of default as I don't want anyone's personal details entered.
+The payment page is a mock-up of a Stripe payment system. If you put in an actual recognised credit card or debit card it will say payment is successful. As I didn't want to actually go any deeper the page states that as a matter of default as I don't want anyone's personal details entered.
 If the card isn't recognised then the page states this.
-You can actually add details in but it will not save them as a standard interactive payment page would.
+You can add details in but it will not save them as a standard interactive payment page would.
 There is also a countdown timer that infers the time left to purchase tickets.
 The page has a home page with the drop-down menu but that is more for effect to highlight the home page.
-The features for the purpose of this site works well and respond as expected.
+The features for this site work well and respond as expected.
 
 The second button is "find us here" and shows a map of the 02 site where you can click on the site to get the exact address.
-I've downloaded an API from google apps and it's restricted to a certain amount of use so for the purpose of display and tutor marking it will display. You may need to hit F5 to refresh or go into developer tools and come out again for the page to refresh.
+I've downloaded an API from google apps and it's restricted to a certain amount of use so for display and tutor marking it will display. You may need to hit F5 to refresh or go into developer tools and come out again for the page to refresh.
 It does work but it can be hit and miss depending on the user's cache or settings on the Chrome development site.
 
 The download pages offer two sites. 1) A site to look out for other festivals and gigs for the season. 2) the playlist, which I thought about using Javascript to construct but, upon looking at a professional website the construct is alone a few week's worth of work plus so many copywrite protected sources it would have never been feasible in such a short space of time unless you have these libraries to hand; I have put a base of a music selector minus the audio as I do not have the music downloaded and its all copywritten. It shows the artists and a song they would normally sing. You can either use the selector buttons to change the artist's photo and song or just select directly on the artist to see what song is linked with them. 
