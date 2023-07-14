@@ -70,17 +70,17 @@ All of these are explained in the user goals and features sections.
 
 <img width="750" alt="main screenshot" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/42380d3d-a950-4f76-9cf3-02810d942290">
 
-<br>
+<br><br>
 
 
-The "index.page", is a flyer showing what dates the festival is at the 02 Arena in London.
-The client can visit various social media outlets to see what has happened before and which is current now, the site allows the festival goer to see what is happening around the country and see other revelers having a good time.
+The "index. page", is a flyer showing what dates the festival is at the 02 Arena in London.
+The client can visit various social media outlets to see what has happened before and what is current now, the site allows the festival goer to see what is happening around the country and see other revellers having a good time.
 The aim is to develop flyers that interact with the client so they can select this event and also bookmark other potential events.
-Its a blend of a drop flyer with a "ticketmaster" addition added to it.
-There are also various pages to access via buttons, downloads and social media outlets.
+It's a blend of a drop flyer with a "Ticketmaster" addition added to it.
+There are also various pages to access via buttons, downloads, and social media outlets.
 There is a map that shows exactly where the 02 is.
-There is also a sample playlist should the user wish to hear samples of the line-up artists sets.
-Its a site that could be developed further for more interactive festival sites.
+There is also a sample playlist should the user wish to hear samples of the line-up artists' sets.
+It's a site that could be developed further for more interactive festival sites.
 
 <a name="User"></a>
 ### User Stories
@@ -139,7 +139,7 @@ The Social elements are six-fold
 3) LinkedIn:- This was placed there as the organisers may wish to promote or venue suppliers may wish to state their venues are being chosen. (the link doesn't work as there isn't a Deepstate festival brand of yet).
 4) Pinterest:- For the more artisan people who wish to see other festivals being promoted or shown from a previous date.
 5) Instagram:- Similar to Facebook, people follow a partygoer and reply if they wish or like the person's thread.
-6) YouTube:- A video showing the full set of Eric Prydz's at Creamfield 2022. (will need to skip the ads and put them on full screen for the full benefit of the quality of sound).
+6) YouTube:- A video showing the full set of Eric Prydz's at Creamfield 2022. (will need to skip the ads and put them on full screen for the full benefit of the quality of the sound).
 
 There is a line-up page with the artists on for that day. Plus a random artist selector to show a few soundtracks. this is interactive and can be used as a CD selector or just click on the artist's picture to show a sample song.
 
@@ -200,7 +200,7 @@ Google Maps API
 ### Languages used
 
 * Html
-* Css
+* CSS
 * Javascript
 
 
