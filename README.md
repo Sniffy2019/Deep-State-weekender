@@ -106,8 +106,10 @@ The playlist mimics the flyer design and the playlist is a music selector depict
 <a name="Font"></a>
 ### Font styles used
 
-Permanent Marker, sans-serif;
+Permanent Marker, sans-serif. 
+
 Helvetica Neue for the Stripe page.
+
 Usage from Google font-awesome.
 
 
@@ -340,7 +342,7 @@ It won't play the tracks as they are copywritten and the audio class has been om
 The site has gone from a payment page site linked with social elements as the first draft to:-
 1) Second version added a map (google maps API)
 2) Third version is a plain HTML playlist page.
-3) Fourth Version I've added a sample playlist that's been modified to not include copywritten music or payable downloads as its too expensive and from an educational point of view not viable.
+3) Fourth Version I've added a sample playlist that's been modified to not include copywritten music or payable downloads as it's too expensive and from an educational point of view not viable.
 
 If I could improve the layout, I would add a bottom navbar that on contact scrolled from the bottom of the page to show all the extra features.
 That would have been a project on its own for the amount of work and ensuring it worked, and the links all reacted well as well as putting in all the extra work to give a real 3-day festival feel such as Glastonbury or the V Festival websites.
