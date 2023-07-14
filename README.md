@@ -342,6 +342,9 @@ The site has gone from a payment page site linked with social elements as the fi
 2) Third version is a plain HTML playlist page.
 3) Fourth Version I've added a sample playlist that's been modified to not include copywritten music or payable downloads as its too expensive and from an educational point of view not viable.
 
+If I could improve the layout, I would add a bottom navbar that on contact scrolled from the bottom of the page to show all the extra features.
+That would have been a project on its own for the amount of work and ensuring it worked, and the links all reacted well as well as putting in all the extra work to give a real 3-day festival feel such as Glastonbury or the V Festival websites.
+
 <a name="video"></a>
 ### Media
 [Creamfields](https://youtu.be/-eRZRFX7Cqs)
