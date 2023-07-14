@@ -58,8 +58,8 @@
 <a name="Pro"></a>
  * ### Project Goals
 
-The project is to create an interactive drop flyer that allows the festival goer to select tickets for the displayed event. Also there are external links that show other festivals, and the external links disply videos of festivals and other media outlets. There is also a Playlist and a map section.
-All of these are explain is the user goals and features sections.
+The project Goal is to create an interactive drop flyer that allows the festival goer to select tickets for the displayed event. Also, external links show other festivals, and the external links display videos of festivals and other media outlets. There is also a Playlist and a map section.
+All of these are explained in the user goals and features sections.
 
 
 
@@ -73,24 +73,24 @@ All of these are explain is the user goals and features sections.
 <br>
 
 
-The "index.page", is a flyer showing what dates the festival is at the 02 arena in London.
-The client can visit various social media outlets to see what has happened before and which is current now, the site allows the festival goer to see what is happening around the country and see other revellers having a good time.
-The aim is to develop flyers that interact with the client so they can select this event and also book mark other potential events.
+The "index.page", is a flyer showing what dates the festival is at the 02 Arena in London.
+The client can visit various social media outlets to see what has happened before and which is current now, the site allows the festival goer to see what is happening around the country and see other revelers having a good time.
+The aim is to develop flyers that interact with the client so they can select this event and also bookmark other potential events.
 Its a blend of a drop flyer with a "ticketmaster" addition added to it.
-There are also various different pages to access via buttons, downloads and via the social media outlets.
+There are also various pages to access via buttons, downloads and social media outlets.
 There is a map that shows exactly where the 02 is.
-There is also a sample playlist should the user wish to here samples of the line up artists sets.
-Its a site that could be developed further for more inteactive festival sites.
+There is also a sample playlist should the user wish to hear samples of the line-up artists sets.
+Its a site that could be developed further for more interactive festival sites.
 
 <a name="User"></a>
 ### User Stories
 
 
 The target market is Festival revellers and people who generally love gigs.
-The user if, interested can use the ticketing purchase page to buy said tickets , they can then return home and visit other pages to follow other festivals and events.
-I would quite like to try before I buy so its an accumulation of event selling as well as ticket purchasing.
+The user if interested can use the ticketing purchase page to buy said tickets, they can then return home and visit other pages to follow other festivals and events.
+I would like to try before I buy so it's an accumulation of event selling and ticket purchasing.
 There is also a map to show the address of the event.
-There are interactive social pages showing the different festivals and interaction on the media sites.
+There are interactive social pages showing the different festivals and interactions on the media sites.
 I have added a music sample selector as the user may wish to sample music from their favourite artists.
 Having looked at professional sites the amount of copywritten material is enormous, but this is a preliminary attempt at making a retro interactive site.
 
@@ -98,9 +98,9 @@ Having looked at professional sites the amount of copywritten material is enormo
 ## Design
 
 The design is based on a nineties or retro-style drop flyer.
-The two images are of freestock festival/gig events and the contrast is to depict the outdoor and indoor selection of a 3 day festival.
+The two images are of free stock festival/gig events and the contrast is to depict the outdoor and indoor selection of a 3-day festival.
 The footer is taken from the code institute CV design and modified to allow the user to select either payment or follow other festival goers.
-There is also a map which pinpoints onto the O2 Arena. The user can take down the address, or zoom in or out to see where the event is taking place.
+There is also a map which pinpoints the O2 Arena. The user can take down the address, or zoom in or out to see where the event is taking place.
 The playlist mimics the flyer design and the playlist is a music selector depicting some of the artists and a song the user may recognise.
 
 <a name="Font"></a>
@@ -116,31 +116,31 @@ Usage from Google font-awesome.
 
 The colours for the main page are a 'vibrant catch the user’s eye’ style, with the image of two photos depicting revellers having a good time. 
 The writing is done using a marker pen to give a real festival feel to it. The colour of the font is black and full in texture to give an authentic retro look.
-Underneath the sections are on a straightforward background with white writing; the 4 sections then allow you to purchase tickets, see other events, look for the site via google maps and follow the social elements of the web site as well as sampling some of the lineups playlist.
-The nav bar at the bottom is dark slate gray just to allow white writing and the buttons to have some contrast.
-The line up page is the flyer just with the three dates on and a selection of Dj's/bands. These of course are made up and the site just depicts what the reveller would hypothetically see if they chose the full three day festival, or a day of their choosing.
-The backgound colour is light Grey as it allows the payment page and map clear definition on their respective pages.
+Underneath the sections are on a straightforward background with white writing; the 4 sections then allow you to purchase tickets, see other events, look for the site via google maps and follow the social elements of the website as well as sample some of the lineups playlist.
+The nav bar at the bottom is dark slate grey just to allow white writing and the buttons to have some contrast.
+The line-up page is the flyer just with the three dates on and a selection of DJs/bands. These of course are made up and the site just depicts what the reveller would hypothetically see if they chose the full three-day festival or a day of their choosing.
+The background colour is light Grey as it allows the payment page and map clear definitions on their respective pages.
 
 <a name="Feat"></a>
 ### Features
 
-The whole theme of the site has a happy, calm, and partying theme to the images  to make the user feel comfortable navigating through the pages.
+The whole theme of the site has a happy, calm, and partying theme to the images to make the user feel comfortable navigating through the pages.
 
 Purchase tickets is a button function that takes you to a ticket purchasing page with a countdown timer and home return page. The download and 'Social elements' are explained below.
-Purchase tickets is a mock up of the "stripe" online pay system. Simple colours used to add your details in and bright warning alerts if payment wasn't successful. 
-The map page (Find us Here) allows you to see where the event is happening and  the exact location.
+Purchase tickets is a mock-up of the "stripe" online pay system. Simple colours are used to add your details in and bright warning alerts if payment wasn't successful. 
+The map page (Find us Here) allows you to see where the event is happening and the exact location.
 The social elements on the footer of the main page, have been made to look like straightforward icons of the different social media with you tube showing a video of a different festival.
-There are two download pages, 1) for other festivals shown in the chronological order for the year. 2) The line up for the Deepstate event.
+There are two download pages, 1) for other festivals shown in chronological order for the year. 2) The lineup for the Deepstate event.
 All these are explained in the manual testing element of this README.md.
-The Social elements are six fold
-1) Facebook:- standard leave comments, photos and show people your having a good time.
+The Social elements are six-fold
+1) Facebook:- standard leave comments, photos and show people you're having a good time.
 2) Twitter:- Party people can leave comments on the best bits they enjoyed or the worst bits they disliked.
-3) linkedIn:- This was placed there as the organisers may wish to promote or venue suppliers may wish to sate their venues are being chosen. (the link doesn't work as there isn't a Deepstate festival brand of yet).
+3) LinkedIn:- This was placed there as the organisers may wish to promote or venue suppliers may wish to state their venues are being chosen. (the link doesn't work as there isn't a Deepstate festival brand of yet).
 4) Pinterest:- For the more artisan people who wish to see other festivals being promoted or shown from a previous date.
-5) Instagram :- Similar to Facebook, people follow a party goer and reply if they wish or like the person thread.
-6) You Tube:- A video showing the full set of Eric Prydz's at Creamfield 2022. (will need to skip the ads and put on full screen for full benefit of quality of sound).
+5) Instagram:- Similar to Facebook, people follow a partygoer and reply if they wish or like the person's thread.
+6) YouTube:- A video showing the full set of Eric Prydz's at Creamfield 2022. (will need to skip the ads and put them on full screen for the full benefit of the quality of sound).
 
-There is a line up page with the artists on for that day. Plus a random artist selector to show a few sound tracks. this is interactive and can be used as a CD selector or just click on the artist's picture to show a sample song.
+There is a line-up page with the artists on for that day. Plus a random artist selector to show a few soundtracks. this is interactive and can be used as a CD selector or just click on the artist's picture to show a sample song.
 
 The Hamburger icon isn't functional, but if it was fully developed there would be a sideways nav bar showing the full lineup. I've left it in to highlight the home, Playlist and Purchase tickets links.
 
@@ -217,13 +217,13 @@ Google maps API
 
 
 * Tests have been run on Code anywhere
-Using Html, CSS and Javascript.
+Using Html, CSS, and Javascript.
 
 * https://sniffy2019-deep-state-we-emyvtq6bqy.us2.codeanyapp.com/status/
 * https://github.com/Sniffy2019/Deep-State-weekender
 * https://gitpod.io/new/#https://github.com/Sniffy2019/Deep-State-weekender
 
-* Glitch was used to format the code in Html, CSS and the JS files.
+* Glitch was used to format the code in Html, CSS and JS files.
 * Checked via glitch for presentation.
   
 <a name="w3-NU-HTML"></a>
@@ -271,19 +271,19 @@ Using  Code anywhere the command line was easier to establish commits. Once usin
 
 The front page or "index.html" page. Has two functioning buttons one for purchasing tickets and the other for finding the 02 arena.
 
-The payment page is mock up of a Stripe payment system. If you put an actual recognised credit card or debit card it will say payment successful. As I didn't want to actually go any deeper the page states that as a matter of default as I dont want anyone's personal details entered.
+The payment page is a mock-up of a Stripe payment system. If you put an actual recognised credit card or debit card it will say payment is successful. As I didn't want to actually go any deeper the page states that as a matter of default as I don't want anyone's personal details entered.
 If the card isn't recognised then the page states this.
-You can actually add details in but it will not save them as  a standard interactive payment page would.
-There is also a countdown timer which infers to the time left to purchase tickets.
-The page has a home page with the drop down menu but that is more for effect to highlight the home page.
+You can actually add details in but it will not save them as a standard interactive payment page would.
+There is also a countdown timer that infers the time left to purchase tickets.
+The page has a home page with the drop-down menu but that is more for effect to highlight the home page.
 The features for the purpose of this site works well and respond as expected.
 
 The second button is "find us here" and shows a map of the 02 site where you can click on the site to get the exact address.
-I've down loaded an Api from google apps and its restricted to a certain amount of use so for the purpose of display and tutors marking it will display. You may need to hit F5 to refresh or go into developer tools and come out again for the page to refresh.
-It does work but it can be hit and miss depending on the users cache or settings on the Chrome develope site.
+I've downloaded an API from google apps and it's restricted to a certain amount of use so for the purpose of display and tutor marking it will display. You may need to hit F5 to refresh or go into developer tools and come out again for the page to refresh.
+It does work but it can be hit and miss depending on the user's cache or settings on the Chrome development site.
 
-The download pages offer two sites. 1) A site to look out for other festivals and gigs for the season. 2) the playlist, which I thought about using Javascript to construct but, upon looking at professional website the construct is alone a few weeks worth of work plus so much copywrite protected sources it would have never been feasibile in such a short space of time unless you have these libraries to hand; I have put a base of a music selector minus the audio as I dont have the music downloaded and its all copywritten. It shows the artists and a song they would normally sing. You can either use the selector buttons to change the artists photo and song or just select directly on the artis to see what song is linked with them. 
-Its the front page with a made up lineup of famous artists and a selection of that playlist from all of the days of the festival.
+The download pages offer two sites. 1) A site to look out for other festivals and gigs for the season. 2) the playlist, which I thought about using Javascript to construct but, upon looking at a professional website the construct is alone a few week's worth of work plus so many copywrite protected sources it would have never been feasible in such a short space of time unless you have these libraries to hand; I have put a base of a music selector minus the audio as I do not have the music downloaded and its all copywritten. It shows the artists and a song they would normally sing. You can either use the selector buttons to change the artist's photo and song or just select directly on the artist to see what song is linked with them. 
+It's the front page with a made-up lineup of famous artists and a selection of that playlist from all of the days of the festival.
 
 
 
@@ -296,18 +296,18 @@ Its the front page with a made up lineup of famous artists and a selection of th
 The pages and links have been tested, and the buttons react well.
 
 Stripe has been capped at not going beyond the initial page as I would not want to expose real credit card data, to show the payment page works.
-You can add your card details if you wish as it will state if the card is valid, if wrongly entered or keep the payment successful note at the bottom if an actual credit card has been entered correctly.There was a default state of saying the payment is succesful, that element has been removed as a default in Javascript to show the card number is invalid rather than be fully interactive.
+You can add your card details if you wish as it will state if the card is valid, if wrongly entered, or keep the payment successful note at the bottom if an actual credit card has been entered correctly. There was a default state of saying the payment is successful, that element has been removed as a default in Javascript to show the card number is invalid rather than be fully interactive.
 
 <img width="750" height= "650" alt="purchasing tickets" src="https://github.com/Sniffy2019/Deep-State-weekender/assets/122370573/a6053c5d-302c-4454-b3a5-f99b9e610d92">
 
 
 
-The image depicts the purchasing page with a home return button, if a non-recognised card number is placed as shown above.
+The image depicts the purchasing page with a home return button if a non-recognised card number is placed as shown above.
 
 <br>
 
-The map somtimes does not load on first selection of the button onto the find us here page.
-I've included a screen shot of the map and have used a google API which is restricted but only for IP addresses.
+The map sometimes does not load on the first selection of the button on the find us here page.
+I've included a screenshot of the map and have used a Google API which is restricted but only for IP addresses.
 The issue is the developer tool in Chrome. If you go into inspect and the developer tools you can clear the issue and the map shows on the page.
 
 When on the map page google developers tools states this error.
@@ -336,10 +336,10 @@ It won't play the tracks as they are copywritten and the audio class has been om
 <a name="development"></a>
 ### Development
 
-The site has gone from a payment page site linked with social elements as first draft to:-
+The site has gone from a payment page site linked with social elements as the first draft to:-
 1) Second version added a map (google maps API)
-2) Third version a plain HTML playlist page.
-3) Fourth Version I've added a sample playlist thats been modified to not include copywritten music or payable downloads as its too expensive and for an educational point of view not viable.
+2) Third version is a plain HTML playlist page.
+3) Fourth Version I've added a sample playlist that's been modified to not include copywritten music or payable downloads as its too expensive and from an educational point of view not viable.
 
 <a name="video"></a>
 ### Media
@@ -359,11 +359,11 @@ Abxlfazl Khxrshidi Author of playlist sample, modified by Alex Parry, free sourc
 <a name="Acknow"></a>
 ### Acknowledgments
 
-*Code Institute:- base layout of website and code to create front page.
+*Code Institute:- base layout of website and code to create the front page.
 
 *js.stripe.com/v3/:- Snippet of code allowed to be used to show a payment page.
 
-*Robert Mclaughlin :- For reviewing ideas and expanding the web page.
+*Robert Mclaughlin:- For reviewing ideas and expanding the web page.
 
 *Abxlfazl Khxrshidi:- For allowing his code to be used in the sample playlist.
 
